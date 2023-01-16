@@ -5,7 +5,7 @@
 <head>
 <meta name="GENERATOR" content="IMPERIA 8.6.35_2" />
 
-<title>Hochschule Bremen - INT - Institut f&uuml;r Nachrichtentechnik</title>
+<title>Hochschule Bremen - INT - Institut für Nachrichtentechnik</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Herbert, Schmatz, Bremen, Hochschule Bremen, HSB, 
 		Elektrotechnik, EMV, 3D-Fernsehen, Spracherkennung, Informationstechnik" />
