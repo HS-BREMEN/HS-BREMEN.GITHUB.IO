@@ -220,7 +220,7 @@ Schnell-Navigation:
 <a id="Inhalt" title="Inhalt" ></a>
 <div class="text">
 
-<h2>INT - Institut fÃ¼r Nachrichtentechnik</h2>
+<h2>INT - Institut für Nachrichtentechnik</h2>
 <p>
 <strong>Anschrift</strong><br />
 Institut fÃ¼r Nachrichtentechnik<br />Hochschule Bremen<br />Neustadtswall 30<br />28199 Bremen
