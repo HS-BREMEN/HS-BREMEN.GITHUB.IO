@@ -244,12 +244,12 @@ Anwendungsbezogene Forschung und Entwicklung,<br />Transfer wissenschaftlicher E
 
 <ul>
 
-    <li class='contentliste'><a href='INT/index.html' title='Institut fÃ¼r Nachrichtentechnik'>Institut fÃ¼r Nachrichtentechnik (intern)</a></li>
+    <li class='contentliste'><a href='INT/index.html' title='Institut für Nachrichtentechnik'>Institut für Nachrichtentechnik (intern)</a></li>
 </ul>
 
 
 <ul>
-    <li class='contentliste'><a href='INT/projekte/EMV/index.html' title='Labor fÃ¼r Elektromagnetische Vertr&auml;glichkeit'>Labor fÃ¼r Elektromagnetische VertrÃ¤glichkeit 1994</a></li>
+    <li class='contentliste'><a href='INT/projekte/EMV/index.html' title='Labor für Elektromagnetische Verträglichkeit'>Labor für Elektromagnetische Verträglichkeit 1994</a></li>
 </ul>
 
 
