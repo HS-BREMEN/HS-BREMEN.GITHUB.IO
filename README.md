@@ -1,8 +1,7 @@
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
+
 <style>
 <!--
  /* Font Definitions */
@@ -138,10 +137,7 @@ span.berschrift1Zchn
 	margin:36.0pt 36.0pt 36.0pt 36.0pt;}
 div.WordSection1
 	{page:WordSection1;}
-page[size="A4"] {
-	width: 21cm;
-	height: 29.7cm;
-}
+
  /* List Definitions */
  ol
 	{margin-bottom:0cm;}
@@ -155,7 +151,7 @@ ul
 <body lang=DE link=blue vlink="#954F72">
 
 <div class=WordSection1>
-<page size="A4">
+
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>
  <tr>
