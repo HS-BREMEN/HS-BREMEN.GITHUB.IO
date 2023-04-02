@@ -139,7 +139,7 @@ div.WordSection1
 	{page:WordSection1;}
 
 
-}
+
  /* List Definitions */
  ol
 	{margin-bottom:0cm;}
