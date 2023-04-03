@@ -3668,8 +3668,8 @@ SXDXBEMAAAAASUVORK5CYII=
 	<span style='font-size:10.0pt;font-family:Symbol'>·
 		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
 	</span>
-	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/"  title="3D-Fernshtechnik">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Fernsehtechnik, ARD 8.11.2001 </span>
+	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/"  title="Labor für EMV">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Labor für EMV, ARD 1994 </span>
 	</a>
 	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
 </p>
