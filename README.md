@@ -9298,7 +9298,7 @@ clear=all style='page-break-before:always'>
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1">Anmeldung</a></span></p>
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   </td>
@@ -9323,7 +9323,7 @@ clear=all style='page-break-before:always'>
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1">Anmeldung</a></span></p>
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   </td>
@@ -9451,14 +9451,14 @@ clear=all style='page-break-before:always'>
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1">Anmeldung</a></span></p>
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1"><span
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en"><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Anmeldung</span></a></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1"><span
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en"><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Anmeldung</span></a></p>
   </td>
  </tr>
@@ -9574,7 +9574,7 @@ clear=all style='page-break-before:always'>
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Mathcad 15 -
   Handbooks, Toolboxes</span></a><span style='font-size:12.0pt;font-family:
   "Times New Roman",serif;color:blue'>  </span><span style='font-size:12.0pt;
-  font-family:"Times New Roman",serif'>(nur für Kursteilnehmer)</span></p>
+  font-family:"Times New Roman",serif'>(für Kursteilnehmer)</span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
   18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
