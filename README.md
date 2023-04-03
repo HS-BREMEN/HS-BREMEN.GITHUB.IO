@@ -3674,8 +3674,7 @@ SXDXBEMAAAAASUVORK5CYII=
   Verträglichkeit 1994</span>
 	  </u>
 	  </p>
-	  
-<--------------------------Anfang-------------------------------------------------------------------------------->	  
+	 	  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
   normal'>
 	<span style='font-size:10.0pt;font-family:Symbol'>·
@@ -3697,8 +3696,8 @@ SXDXBEMAAAAASUVORK5CYII=
 	</a>
 	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
 </p>
-  <---------------------------------------------Ende------------------------------------------------------------->
-	  
+
+	
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
   normal'>
 	<span style='font-size:10.0pt;font-family:Symbol'>·
