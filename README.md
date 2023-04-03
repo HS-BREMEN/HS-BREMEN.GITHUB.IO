@@ -3662,20 +3662,26 @@ SXDXBEMAAAAASUVORK5CYII=
   </span></span><a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html"
   title="Institut für Nachrichtentechnik"><span style='font-size:12.0pt;
   font-family:"Times New Roman",serif'>Institut für Nachrichtentechnik (intern)</span></a></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-  color:blue'>Labor für </span></u><a
-  href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Elektromagnetische</span></a><u><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'>
-  Verträglichkeit 1994</span>
-	  </u>
-	  </p>
-	 	  
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+	  
+  
+
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+	</span>
+	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/">  title="Labor für Elektromagnetische Verträgichkeit">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Labor für Elektromagnetische Verträgichkeit 1994</span>
+	</a>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+</p>
+	  
+	  
+	  
+	  
+	  
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
   normal'>
 	<span style='font-size:10.0pt;font-family:Symbol'>·
 		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
