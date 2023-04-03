@@ -3671,56 +3671,90 @@ SXDXBEMAAAAASUVORK5CYII=
   href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/"><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Elektromagnetische</span></a><u><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif;color:blue'>
-  Verträglichkeit 1994</span></u></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/"
-  title=3D-Fernsehtechnik><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Fernsehtechnik
-  , ARD 28.11.2001</span></a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>    </span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/"
-  title=3D-Videotechnik><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Videotechnik
-  , SAT1 28.11.2001</span></a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>     </span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/"
-  title="Luft- und Raumfahrt"><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Luft-
-  und Raumfahrt 2009</span></a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                        
-        </span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="#Forschung" title="Forschung und Hochschullehre"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Forschung und
-  Hochschullehre</span></a></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="https://www.hs-bremen.de/informationen-fuer/alumni/"
-  title=ALUMNI><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>ehemalige
-  Studierende ALUMNI</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Stand:
-  2023</span></p>
-  </td>
-  <td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Times New Roman",serif'>Drei
-  Generationen Nachrichtentechnik</span></b><span style='font-family:"Times New Roman",serif'>
-  </span></p>
+  Verträglichkeit 1994</span>
+	  </u>
+	  </p>
+	  
+<--------------------------Anfang-------------------------------------------------------------------------------->	  
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+	</span>
+	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/"  title="3D-Fernshtechnik">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Fernsehtechnik, ARD 8.11.2001 </span>
+	</a>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+</p>
+	  
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+	</span>
+	<a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/"  title="3D-Vdeotechnik">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Videotechnik, SAT1 8.11.2001 </span>
+	</a>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+</p>
+  <---------------------------------------------Ende------------------------------------------------------------->
+	  
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+	</span>
+	<a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/"  title="Luft- und Raumfahrt">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Luft- und Raumfahrt 2009 </span>
+	</a>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+</p>
+
+	  
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+	</span>
+	<a href="#Forschung" title="Forschung und Hochschullehre">
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Forschung und Hochschullehre</span>
+	</a>
+</p>
+	  
+	  
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+  normal'>
+	<span style='font-size:10.0pt;font-family:Symbol'>·
+		<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+	</span>
+	<a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title=ALUMNI>
+		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>ehemalige Studierende ALUMNI</span>
+	</a>
+</p>
+	
+	  
+	  
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
+	  <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+</p>
+
+	  
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+</p>
+	  
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Stand: 2023</span>
+</p>
+</td>
+	  
+	  
+<td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <b>
+  <span style='font-family:"Times New Roman",serif'>Drei  Generationen Nachrichtentechnik</span></b><span style='font-family:"Times New Roman",serif'>
+  </span>
+  </p>
 
 
 
