@@ -9602,7 +9602,7 @@ clear=all style='page-break-before:always'>
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://idp.hs-bremen.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1">Anmeldung</a></span></p>
+  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><a href="https://en.smath.com/view/SMathStudio/download"><span
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Free Download</span></a></p>
