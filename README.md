@@ -9377,7 +9377,7 @@ clear=all style='page-break-before:always'>
    
    <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
        <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
-       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">DSV - Digitale Signalverarbeitung M5.11)</a>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">DSV - Digitale Signalverarbeitung (M5.11)</a>
        </span>
   </li>
   
