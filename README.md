@@ -9375,23 +9375,16 @@ clear=all style='page-break-before:always'>
        </span>
     
        </li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'>
-       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch Modulhandbuch_ET_ISTAP_2016.pdf"
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>DSV</span>
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> - Digitale Signalverarbeitung</span>
-       </a>
-       <u>
-       <span style='font-size:12.0pt;
-       font-family:"Times New Roman",serif;color:blue'> (M5.11)
-       </span>
-       </u>
+  <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>   
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch Modulhandbuch_ET_ISTAP_2016.pdf"> DSV - Digitale Signalverarbeitung (M5.11)</a>
+       </span>  
    </li>
    
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'>
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
        <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
-       <a href="htps://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">PRJ 1 - Projekt in der Informationstechnik (M6.1)</a></span>
+       <a href="htps://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">PRJ 1 - Projekt in der Informationstechnik (M6.1)</a>
+       </span>
    </li>
        
    <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
