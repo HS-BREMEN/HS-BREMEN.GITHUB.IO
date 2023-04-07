@@ -9330,54 +9330,76 @@ clear=all style='page-break-before:always'>
  </tr>
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrveranstaltungen
-  </span></u></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;
-  <u>bis 1992-2018:</u></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+    <b>
+    <u>
+    <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrveranstaltungen </span>
+    </u>
+    </b>
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+    <b>
+    <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp; <u>bis 1992-2018:</u> </span>
+    </b>
+  </p>
   <ul style='margin-top:0cm' type=disc>
+  
+   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+     <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
+     <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> GEL1 - Grundlagen der Elektrotechnik 1 (M1.6)</span>
+     </a>
+   
+   </li>
+   
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>GEL2- Grundlagen der Elektrotechnik 2 (M2.6) </span>
+       </a>
+   </li>
+   
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>EMW – Elektromagnetische Wellen (M3.4) </span>
+       </a>
+   </li>
+   
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> GIT - Grundlagen der Informationstechnik (M4.8) </span>
+       </a>
+   </li>
+   
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">SuS – Signale und Systeme (3.2)</a>
+       </span>
+    
+       </li>
    <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>GEL1</span><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> -
-       Grundlagen der Elektrotechnik 1</span></a><u><span style='font-size:
-       12.0pt;font-family:"Times New Roman",serif;color:blue'> (M1.6)</span></u></li>
+       line-height:normal'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch Modulhandbuch_ET_ISTAP_2016.pdf"
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>DSV</span>
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> - Digitale Signalverarbeitung</span>
+       </a>
+       <u>
+       <span style='font-size:12.0pt;
+       font-family:"Times New Roman",serif;color:blue'> (M5.11)
+       </span>
+       </u>
+   </li>
+   
    <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">GEL2
-       - Grundlagen der Elektrotechnik 2 (M2.6)</a></span></u></li>
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">EMW
-       – Elektromagnetische Wellen (M3.4)</a></span></u></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>GIT</span><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> - Grundlagen
-       der Informationstechnik</span></a><u><span style='font-size:12.0pt;
-       font-family:"Times New Roman",serif;color:blue'> (M4.8)</span></u></li>
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">SuS
-       – Signale und Systeme (5.7)</a></span></u></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>DSV</span><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> - Digitale
-       Signalverarbeitung</span></a><u><span style='font-size:12.0pt;
-       font-family:"Times New Roman",serif;color:blue'> (M5.11)</span></u></li>
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">PRJ
-       1 - Projekt in der Informationstechnik (M6.1)</a></span></u></li>
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-       href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">ITS
-       - Informationstechnische Systeme (M6.7)</a></span></u></li>
+       line-height:normal'>
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+       <a href="htps://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">PRJ 1 - Projekt in der Informationstechnik (M6.1)</a></span>
+   </li>
+       
+   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">ITS - Informationstechnische Systeme (M6.7)</a>
+       </span>
+    </li>
+    
   </ul>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal'><span
@@ -9390,8 +9412,7 @@ clear=all style='page-break-before:always'>
        line-height:normal'><a
        href="https://m-server.fk5.hs-bremen.de/plan/dozent.aspx?code=SCHMATZ&amp;semester=ws19&amp;team=4"><span
        style='font-size:12.0pt;font-family:"Times New Roman",serif'>Veranstaltungsplan</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
+   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;     line-height:normal'><a
        href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><span
        style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrunterlagen</span></a><span
        style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></li>
