@@ -9261,40 +9261,48 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
  </tr>
 </table>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                               </span></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'></span>
+</p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+</p>
 
-<span style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'><br
-clear=all style='page-break-before:always'>
+<span style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'>
+	<br clear=all style='page-break-before:always'>
 </span>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
+"Times New Roman",serif'>&nbsp;
+	</span>
+</p>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=0
- style='width:18.0cm;margin-left:6.9pt;border-collapse:collapse;border:none'>
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=0 style='width:18.0cm;margin-left:6.9pt;border-collapse:collapse;border:none'>
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a name=Forschung></a><b><u><span style='font-size:12.0pt;font-family:
-  "Times New Roman",serif'><a
-  href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">Forschung</a></span></u></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a
-  href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><span
-  style='font-size:12.0pt;color:windowtext;text-decoration:none'>Forschungsprojekte,
-  Tagungen, Konferenzen</span></a><span class=MsoHyperlink><span
-  style='font-size:12.0pt;color:windowtext;text-decoration:none'>,
-  Publikationen</span></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+	  <a name=Forschung></a><b><u><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>
+	  <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">Forschung</a>
+	  </span>
+	  </u>
+	  </b>
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+	  <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+	  <span style='font-size:12.0pt;color:windowtext;text-decoration:none'>Forschungsprojekte, Tagungen, Konferenzen</span>
+	  </a>
+	  <span class=MsoHyperlink>
+		  <span style='font-size:12.0pt;color:windowtext;text-decoration:none'>, Publikationen</span>
+	  </span>
+  </p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>(teilweise
   passwortgeschützt)</span></p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   </td>
+	 
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
@@ -9302,7 +9310,9 @@ clear=all style='page-break-before:always'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   </td>
+	 
  </tr>
+	
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -9328,6 +9338,7 @@ clear=all style='page-break-before:always'>
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
   </td>
  </tr>
+	
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
@@ -9348,7 +9359,6 @@ clear=all style='page-break-before:always'>
      <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
      <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> GEL1 - Grundlagen der Elektrotechnik 1 (M1.6)</span>
      </a>
-   
    </li>
    
    <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
