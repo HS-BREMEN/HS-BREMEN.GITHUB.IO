@@ -149,7 +149,7 @@ ul
 
 </head>
 
-<body lang=DE link=blue vlink="#954F72">
+<body lang=DE>
 
 <div class=WordSection1>
 
