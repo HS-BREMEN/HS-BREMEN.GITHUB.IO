@@ -9628,8 +9628,23 @@ clear=all style='page-break-before:always'>
  </tr>
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+  &nbsp;
+  
+  
+  
+  
+<p><a href="https://hotel-neptun.panomax.com/web/">Hotel Neptun webcam</a></p>
+<p><a href="https://nordkapp.panomax.com">Nordkap</a></p>
+<p><a href="https://hrx.panomax.com/ra">MS Roald Amundsen</a></p>
+<p><a href="https://hrx.panomax.com/fn">MS Fridtjof Nansen</a></p>
+<p><a href="https://zugspitze.panomax.com/">Zugspitze</a></p>
+
+  
+  
+  
+  </span></p>
   </td>
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
