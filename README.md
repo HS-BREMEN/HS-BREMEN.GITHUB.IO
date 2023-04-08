@@ -9642,6 +9642,7 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
   &nbsp;
  
+<! ------------------ webcams ------------------->
 	  
  <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
 	<a href="https://hotel-neptun.panomax.com/web/">
