@@ -9636,13 +9636,14 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
   style='font-size:12.0pt;font-family:"Times New Roman",serif'>Download</span></a></p>
   </td>
  </tr>
+	
+	
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
   &nbsp;
  
-<! ------------------ webcams ------------------->
 	  
  <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
 	<a href="https://hotel-neptun.panomax.com/web/">
@@ -9674,11 +9675,10 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
 	</a>
  </li>
  
-
-  
-  
   </span></p>
   </td>
+	
+	
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
