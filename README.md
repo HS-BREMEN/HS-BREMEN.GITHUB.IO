@@ -9642,16 +9642,43 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
   &nbsp;
   
-  
-  
-  
-<p><a href="https://hotel-neptun.panomax.com/web/">Hotel Neptun webcam</a></p>
-<p><a href="https://nordkapp.panomax.com">Nordkap</a></p>
-<p><a href="https://hrx.panomax.com/ra">MS Roald Amundsen</a></p>
-<p><a href="https://hrx.panomax.com/fn">MS Fridtjof Nansen</a></p>
-<p><a href="https://zugspitze.panomax.com/">Zugspitze</a></p>
+<!  ----------webcams ---------------------->
+  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <b><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Webcams</span></u></b>
+  </p>
+	  
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://hotel-neptun.panomax.com/web/">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Neptun webcam</span>
+	</a>
+ </li>
+	  
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://nordkapp.panomax.com">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Nordkap</span>
+	</a>
+ </li>
+	  
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://hrx.panomax.com/ra">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>MS Roald Amundsen</span>
+	</a>
+ </li>
+	  
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://hrx.panomax.com/fn">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>MS Fridtjof Nansen</span>
+	</a>
+ </li>
+	  
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://zugspitze.panomax.com/">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Zugspitze</span>
+	</a>
+ </li>
+ 
 
-  
   
   
   </span></p>
