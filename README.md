@@ -9693,7 +9693,13 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
 	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Neptun webcam</span>
 	</a>
  </li>
-	  
+	
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+	<a href="https://ipcamlive.com/player/player.php?alias=atlantic1&autoplay=0&mute=0">
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Atlantic Warnemünde</span>
+	</a>
+ </li>	
+	
  <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
 	<a href="https://nordkapp.panomax.com">
 	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Nordkap</span>
