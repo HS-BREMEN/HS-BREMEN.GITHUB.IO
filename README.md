@@ -1831,50 +1831,62 @@ normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 align=left
- style='border-collapse:collapse;border:none;margin-left:5.9pt;margin-right:
- 5.9pt'>
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 align=left 
+style='border-collapse:collapse;border:none;margin-left:5.9pt;margin-right: 5.9pt'>
+
  <tr>
   <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Anschrift</span></strong><span
-  style='font-size:12.0pt'><br>
-  Institut für Nachrichtentechnik<br>
-  Hochschule Bremen<br>
-  Neustadtswall 30<br>
-  28199 Bremen</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Arbeitsschwerpunkte
-  </span></strong><span style='font-size:12.0pt'>(bis 2018)<br>
-  </span>Anwendungsbezogene Forschung und Entwicklung,<br>
-  Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br>
-  Weiterbildung und Hochschullehre,</p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>Internationale Kooperationen: </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>London South Bank University (<a href="https://www.lsbu.ac.uk/">LSBU</a>)
-  (GB),</p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU)</p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó
-  Kálman&quot;</a> Budapest (HU)</p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://www.univ-artois.fr/">Université d'Artois Béthune</a>,
-  (FR).</p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Anschrift</span></strong>
+  <span style='font-size:12.0pt'><br>
+    Institut für Nachrichtentechnik<br>
+    Hochschule Bremen<br>
+    Neustadtswall 30<br>
+   28199 Bremen
+  </span>
+  </p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong>
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Arbeitsschwerpunkte </span></strong>
+    <span style='font-size:12.0pt'>(bis 2018)<br>
+   </span>Anwendungsbezogene Forschung und Entwicklung,<br>
+    Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br>
+    Weiterbildung und Hochschullehre,
+  </p>
+    
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>Internationale Kooperationen: </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a> (GB),
+  </p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU)
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó Kálman&quotBudapest;</a>  (HU)
+  </p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <a href="https://www.univ-artois.fr/">Université d'Artois Béthune</a>, (FR).
+   </p>
   </td>
 
 
 
 
   <td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt'><img border=0 width=168 height=233
-  id="Grafik 2" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAADpCAIAAAFIKtu8AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+    <span style='font-size:12.0pt'>&nbsp;</span>
+   </p>
+  
+   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <span style='font-size:12.0pt'>
+   <img border=0 width=168 height=233
+   id="Grafik 2" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAADpCAIAAAFIKtu8AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhedL0FQJRN1zeOUiLbTdpiYDeKgZ2E
 ioUdiIqCiALSIN3diDRI9wbsLrtsscTS3WJLp3r/59r19r3f7/v+POeZe0CWuX5zzpyYmXMuqWpm
 sYBRBNoaVmk9h1LLLgNUxytpqCE3sEub2UXt3NwufllPbUVfPaNPyOyuY3Y3cfrrGYMNlf0NLCk+
