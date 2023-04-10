@@ -1857,12 +1857,12 @@ normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp
   normal'>London South Bank University (<a href="https://www.lsbu.ac.uk/">LSBU</a>)
   (GB),</p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://nki.bme.hu/">TU Budapest</a>, (HU)</p>
+  normal'><a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU)</p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó
   Kálman&quot;</a> Budapest (HU)</p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://www.univ-artois.fr/">université d'artois béthune</a>,
+  normal'><a href="https://www.univ-artois.fr/">Université d'Artois Béthune</a>,
   (FR).</p>
   </td>
 
@@ -3604,51 +3604,79 @@ wi0skpzdyqNjoTX/VFbeW1rWiSluzMmpSEkG8IXxsZjE+JKUpJLU5OLUxBKkFQzLC/ZNdXcIszBw
 e0IQ+hT8KmR+uij4lU3COowGoAuMwdvv6c+1X7TohxxAhUywiawK2UJWahOWF6eHPnVXYf9fHhjj
 SXDXBEMAAAAASUVORK5CYII=
 "></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt'>Prof. Dr.-Ing. Herbert Schmatz</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>Leiter des INT 1992 - 2018</p>
+
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <span style='font-size:12.0pt'>Prof. Dr.-Ing. Herbert Schmatz</span>
+  </p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>Leiter des INT 1992 - 2018</p>
   </td>
  </tr>
+ 
  <tr>
   <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Ansprechpartner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></strong><span style='font-size:12.0pt'><br>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong>
+  </p>
+  
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Ansprechpartner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>
+  </strong>
+  <span style='font-size:12.0pt'>
+  <br>
   Institutsleiter: Prof. Dr.-Ing. Herbert Schmatz, i.R. <br>
-  </span><a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden"><span
-  style='font-size:12.0pt'>herbert.schmatz@hs-bremen.de</span></a></p>
+  </span>
+  <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
+  <span style='font-size:12.0pt'>herbert.schmatz@hs-bremen.de</span>
+  </a>
+  </p>
   </td>
+  
   <td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Times New Roman",serif'>Elektrotechnik,</span></p>
+  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
+  <span style='font-size:10.0pt;font-family:Symbol'>·
+    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+  </span>
+  <span style='font-family:"Times New Roman",serif'>Elektrotechnik,</span>
+  </p>
+  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Times New Roman",serif'>Elektromagnetische
-  Verträglichkeit,</span></p>
+   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
+   <span style='font-size:10.0pt;font-family:Symbol'>·
+    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+   </span>
+   <span style='font-family:"Times New Roman",serif'>Elektromagnetische Verträglichkeit,</span>
+  </p>
+  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Times New Roman",serif'>Informationstechnik,</span></p>
+   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+   normal'>
+   <span style='font-size:10.0pt;font-family:Symbol'>·
+    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+   </span><span style='font-family:"Times New Roman",serif'>Informationstechnik,</span>
+  </p>
+  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Times New Roman",serif'>Signale und
-  Systeme.</span></p>
+   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
+   <span style='font-size:10.0pt;font-family:Symbol'>·
+    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+   </span>
+   <span style='font-family:"Times New Roman",serif'>Signale und Systeme.</span>
+  </p>
+  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  </p>
   </td>
  </tr>
+ 
  <tr>
   <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
