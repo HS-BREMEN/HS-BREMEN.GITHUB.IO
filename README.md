@@ -3679,17 +3679,22 @@ SXDXBEMAAAAASUVORK5CYII=
  
  <tr>
   <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  </p>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:10.0pt;font-family:Symbol'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html"
-  title="Institut für Nachrichtentechnik"><span style='font-size:12.0pt;
-  font-family:"Times New Roman",serif'>Institut für Nachrichtentechnik (intern)</span></a></p>
+  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
+   <span style='font-size:10.0pt;font-family:Symbol'>·
+    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+   </span>
+  <a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html" title=" Institut für Nachrichtentechnik">
+  <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Institut für Nachrichtentechnik (intern)</span>
+  </a>
+  </p>
 	  
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
   normal'>
