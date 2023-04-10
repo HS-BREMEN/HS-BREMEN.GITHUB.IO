@@ -9690,7 +9690,7 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
    
  <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
 	<a href="https://hotel-neptun.panomax.com/web/">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Neptun webcam</span>
+	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Neptun Warnemünde</span>
 	</a>
  </li>
 	
