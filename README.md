@@ -1867,7 +1867,7 @@ style='border-collapse:collapse;border:none;margin-left:5.9pt;margin-right: 5.9p
    <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU)
   </p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó Kálman&quotBudapest;</a>  (HU)
+   <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó Kálman,&quot Budapest;</a>  (HU)
   </p>
   
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
