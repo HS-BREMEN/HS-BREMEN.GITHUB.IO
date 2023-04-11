@@ -9731,6 +9731,13 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
   <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+    <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://www.foto-webcam.eu/webcam/zugspitze">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Foto-webcam</span>
+	</a>
+    </li>
+  </td>
+  
   </td>
  </tr>
 </table>
