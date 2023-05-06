@@ -9535,11 +9535,6 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
     </a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (offen)</span>
    </li>
 
-   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_1118557&amp;client_id=hsbremen">
-    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Projekte</span></a>
-    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (offen)</span>
-   </li>
   </ul>
 
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
