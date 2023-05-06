@@ -29,6 +29,37 @@ p.MsoNormal, li.MsoNormal, div.MsoNormal
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;}
 h1
+<html lang="de">
+<head>
+   <meta charset="utf-8">
+   <meta name="description" content="" />
+   <meta name="keywords" content="HTML, Metatags" />
+   <meta name="H.S." content="gp" />
+   <title>HS-BREMEN</title>
+</head>
+ 
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+h1
 	{mso-style-link:"Überschrift 1 Zchn";
 	margin-top:12.0pt;
 	margin-right:0cm;
@@ -9882,5 +9913,7 @@ s_kwcid=AL!8664!3!464632327812!e!!g!!matlab%20download&amp;s_eid=ppc_7829185042&
 normal"><span style="font-size:12.0pt">&nbsp;</span></p>
 
 </div>
-
+</div>
+ 
+</body>
 </html>
