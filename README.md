@@ -1,11 +1,16 @@
-<html>
-
+<html lang="de">
 <head>
-
+   <meta charset="utf-8">
+   <meta name="description" content="" />
+   <meta name="keywords" content="HTML, Metatags" />
+   <meta name="H.S." content="gp" />
+   <title>HS-BREMEN</title>
+</head>
+ 
 <style>
 <!--
  /* Font Definitions */
- @font-face
+@font-face
 	{font-family:Wingdings;
 	panose-1:5 0 0 0 0 0 0 0 0 0;}
 @font-face
@@ -15,7 +20,7 @@
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;}
  /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
+p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:8.0pt;
@@ -147,25 +152,21 @@ ul
 -->
 </style>
 
-</head>
+<div class="WordSection1">
 
-<body lang=DE>
-
-<div class=WordSection1>
-
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=287 valign=top style='width:224.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> 
-</span></b><b>
-
-
-
-<span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'><img width=223
-  height=82 id="Grafik 10" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAb4AAACjCAYAAAD1snsYAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAd
+<table class="MsoTableGrid" style="border-collapse:collapse;border:none" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+ <td style="width:224.75pt;padding:0cm 5.4pt 0cm 5.4pt" width="287" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+ <b>
+ <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+ </b>
+ 
+ <b>
+  <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+  <img id="HSB-Logo" src="data:image/jpg;base64,
+iVBORw0KGgoAAAANSUhEUgAAAb4AAACjCAYAAAD1snsYAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAd
 hwAAHYcBj+XxZQAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAMKzSURBVHhe
 7F0FYFv13j3RuiZtGm2qc7YhwxkDBsxw9+HO42EPHzLcHkOGy3i4TRkydDBkwnyrJGmSJk3d2/h3
 /rcr34CxtZ11W/6lpGsjN797c8/9yTlHGeVCbMUiEItALAKxCMQisIdEQLmHvM/Y24xFIBaBWARi
@@ -1042,18 +1043,22 @@ W3YIOXwzKQJWuPbGo28/Iyb0ln56v1xN71SzIZ6R3x/7JYDN4fEGG+w2sc+be68H6W4vXJuUiDQt
 5+RHf4XU/CbFOnCYcmUD2Lk9K9j0oz9T+wDNApoFNAucLRbQHN93nMkAtgUak+rTtfHxr+Lci/O7
 g/Js3vyrDc0CmgU0C2gW+NYCmuM7xWz4NbsNzelpl7pmAc0CmgVOtIDm+LRZoVlAs4BmAc0C55QF
 NMd3Tp1u7cdqFtAsoFlAs8D/AwR9ElJAMx+IAAAAAElFTkSuQmCC
-"></span></b><b><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-  </td>
-  <td width=443 valign=top style='width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+" width="223" height="82">
+</span>
+</b>
+<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></b>
+</p>
 
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></b>
+  </p>
+</td>
 
-<img
-  width=400 height=115 id="Grafik 11" src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAwADAAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+<td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt" width="443" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<img id="EMV-Lab" src="data:image/jpg;base64,
+/9j/4AAQSkZJRgABAQEAwADAAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
 HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
 MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADmAyADASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -1593,17 +1598,19 @@ g1dPAoorpi7rU55KzG55OeoHNCncOOmcdaKKoQ1lB4PTPSomiUnjqRRRUjRG+F+XHtjtTdwIX3IH
 SiimMQsdu88DODjrSFzhgQOPSiinYQ0kAZwcH37elSnaVPH4fWiigBfKVweMEkDI9aheAHkdD60U
 U09RNEbwheDj04qJoh0PPrRRVp6ENIhMAJwO44qnfzR2EeZUL5BwFoopuTsSoq5xuqaxfXW6KJ1g
 jxjCdT+Nc9bWAurllyGZepY4+tFFcUqknuzvUIx2R//Z
-"></span></b></p>
-  </td>
- </tr>
+" width="400" height="115">
+ </span>
+ </b>
+ </p>
+ </td>
+</tr>
 
-
-
- <tr>
-  <td width=730 colspan=2 valign=top style='width:530.8pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><img
-  width=716 height=18 id="Grafik 12" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAABZcAAAAkCAYAAAD1lgTgAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAd
+<tr>
+ <td colspan="2" style="width:530.8pt;padding:0cm 5.4pt 0cm 5.4pt" width="730" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+  <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+ <img id="Leiste" src="data:image/jpg;base64,
+iVBORw0KGgoAAAANSUhEUgAABZcAAAAkCAYAAAD1lgTgAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAd
 hwAAHYcBj+XxZQAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAC4ESURBVHhe
 7V3pciQ3jqZUpVvqltv2xMS8x77Nvv7uv4312C2ppNIxAI9MkskDIJlVajcyLKtVxQP4CCKTH5Hg
 9l//9d9vJ8peH0pN/3afLX5/KCgGBesls014X9jW4BPdKvR/Ov2bIo1p6qNPGKytuzcymP9/jusk
@@ -1812,81 +1819,87 @@ etuEwxXV/FWJVM7qlSNIiZHKKZlSOs3ja+3D2XGUTzxVt0ZGL+xwdkWBx4h9m9sEodhn4EocNsQI
 ZZ5fyUsTI2e9bc0sFt9T7wWLiu7tG3aPvAr6zQKIhH28/6aevv4KuZUhz6++AWCkMr6lhj424dxH
 RSk7N0aZnM7nlfqeUnygH/UIXLObm79aH4fcJuC00xN34s8o7IRAKi+NwUQrv0NbD3Dw3yP8YC5m
 jGS+vTWRzsT5wbMOKS0ICAKCgCAgCAgCgoAg8LMj8B8qOGPkBZ5mDwAAAABJRU5ErkJggg==
-"></span></b></p>
+" width="716" height="18"></span></b></p>
   </td>
  </tr>
+</tbody>
 </table>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><b><span style='font-size:20.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+ <b><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></b>
+</p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><b><span style='font-size:20.0pt;font-family:"Times New Roman",serif'>               INT
-- Institut für Nachrichtentechnik</span></b></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<b><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+INT - Institut für Nachrichtentechnik</span></b>
+</p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>   
-                               Gegründet 1992 an der Hochschule Bremen</span></b></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Gegründet 1992 an der Hochschule Bremen</span></b>
+</p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+ <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+</p>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 align=left 
-style='border-collapse:collapse;border:none;margin-left:5.9pt;margin-right: 5.9pt'>
+<table class="MsoTableGrid" style="border-collapse:collapse;border:none;margin-left:5.9pt;
+  margin-right: 5.9pt" cellspacing="0" cellpadding="0" border="0" align="left">
 
- <tr>
-  <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Anschrift</span></strong>
-  <span style='font-size:12.0pt'><br>
+<tbody>
+<tr>
+ <td style="width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt" width="354" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+  <strong><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Anschrift</span></strong>
+  <span style="font-size:12.0pt"><br>
     Institut für Nachrichtentechnik<br>
     Hochschule Bremen<br>
     Neustadtswall 30<br>
-   28199 Bremen
+    28199 Bremen
   </span>
   </p>
   
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+  <strong><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></strong>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Arbeitsschwerpunkte </span></strong>
-    <span style='font-size:12.0pt'>(bis 2018)<br>
-   </span>Anwendungsbezogene Forschung und Entwicklung,<br>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <strong><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Arbeitsschwerpunkte </span></strong>
+    <span style="font-size:12.0pt">(bis 2018)<br>
+    </span>Anwendungsbezogene Forschung und Entwicklung,<br>
     Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br>
     Weiterbildung und Hochschullehre,
   </p>
     
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>Internationale Kooperationen: </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">Internationale Kooperationen: </p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
    <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a> (GB),
   </p>
   
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
    <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU)
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik &quot;Kandó Kálman&quot;, Budapest;</a>  (HU)
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik "Kandó Kálman", Budapest;</a>  (HU)
   </p>
   
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
    <a href="https://www.univ-artois.fr/">Université d'Artois Béthune</a>, (FR).
    </p>
-  </td>
+ </td>
 
-
-
-
-  <td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-    <span style='font-size:12.0pt'>&nbsp;</span>
+ <td style="width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt" width="263" valign="top">
+   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+    <span style="font-size:12.0pt">&nbsp;</span>
    </p>
   
-   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <span style='font-size:12.0pt'>
-   <img border=0 width=168 height=233
-   id="Grafik 2" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAADpCAIAAAFIKtu8AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <span style="font-size:12.0pt">
+   <img id="Prof. Dr. Schmatz" src="data:image/jpg;base64,
+iVBORw0KGgoAAAANSUhEUgAAAKgAAADpCAIAAAFIKtu8AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhedL0FQJRN1zeOUiLbTdpiYDeKgZ2E
 ioUdiIqCiALSIN3diDRI9wbsLrtsscTS3WJLp3r/59r19r3f7/v+POeZe0CWuX5zzpyYmXMuqWpm
 sYBRBNoaVmk9h1LLLgNUxytpqCE3sEub2UXt3NwufllPbUVfPaNPyOyuY3Y3cfrrGYMNlf0NLCk+
@@ -3615,202 +3628,192 @@ wi0skpzdyqNjoTX/VFbeW1rWiSluzMmpSEkG8IXxsZjE+JKUpJLU5OLUxBKkFQzLC/ZNdXcIszBw
 1XqnK/5M7NZ5qPEi189bKckXx0ZCm7O5iGyVsItf3dxYISzNLk59/jY+NDs+tDg5urE4TVpbpBCQ
 e0IQ+hT8KmR+uij4lU3COowGoAuMwdvv6c+1X7TohxxAhUywiawK2UJWahOWF6eHPnVXYf9fHhjj
 SXDXBEMAAAAASUVORK5CYII=
-"></span></p>
+" width="168" height="233" border="0"></span></p>
 
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <span style='font-size:12.0pt'>Prof. Dr.-Ing. Herbert Schmatz</span>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+  <span style="font-size:12.0pt">Prof. Dr.-Ing. Herbert Schmatz</span>
   </p>
   
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>Leiter des INT 1992 - 2018</p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">Leiter des INT 1992 - 2018</p>
   </td>
  </tr>
  
  <tr>
-  <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></strong>
+  <td style="width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt" width="354" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+  <strong><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">&nbsp;</span></strong>
   </p>
   
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <strong><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Ansprechpartner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+  <strong><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif">Ansprechpartner
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span>
   </strong>
-  <span style='font-size:12.0pt'>
-  <br>
+  <span style="font-size:12.0pt">  <br>
   Institutsleiter: Prof. Dr.-Ing. Herbert Schmatz, i.R. <br>
   </span>
   <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
-  <span style='font-size:12.0pt'>herbert.schmatz@hs-bremen.de</span>
+  <span style="font-size:12.0pt">herbert.schmatz@hs-bremen.de</span>
   </a>
   </p>
   </td>
   
-  <td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
-  <span style='font-size:10.0pt;font-family:Symbol'>·
-    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <td style="width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt" width="263" valign="top">
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal">
+  <span style="font-size:10.0pt;font-family:Symbol">·
+    <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
   </span>
-  <span style='font-family:"Times New Roman",serif'>Elektrotechnik,</span>
+  <span style="font-family:&quot;Times New Roman&quot;,serif">Elektrotechnik,</span>
   </p>
   
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
-   <span style='font-size:10.0pt;font-family:Symbol'>·
-    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·
+    <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
    </span>
-   <span style='font-family:"Times New Roman",serif'>Elektromagnetische Verträglichkeit,</span>
+   <span style="font-family:&quot;Times New Roman&quot;,serif">Elektromagnetische Verträglichkeit,</span>
   </p>
   
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
    margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-   normal'>
-   <span style='font-size:10.0pt;font-family:Symbol'>·
-    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·
+    <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
-   </span><span style='font-family:"Times New Roman",serif'>Informationstechnik,</span>
+   </span><span style="font-family:&quot;Times New Roman&quot;,serif">Informationstechnik,</span>
   </p>
   
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
-   <span style='font-size:10.0pt;font-family:Symbol'>·
-    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+   margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·
+    <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
    </span>
-   <span style='font-family:"Times New Roman",serif'>Signale und Systeme.</span>
+   <span style="font-family:&quot;Times New Roman&quot;,serif">Signale und Systeme.</span>
   </p>
   
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+     margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal">
+  <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
   </p>
   </td>
  </tr>
  
  <tr>
-  <td width=354 valign=top style='width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  <td style="width:314.75pt;padding:0cm 5.4pt 0cm 5.4pt" width="354" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-   <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
   </p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'>
-   <span style='font-size:10.0pt;font-family:Symbol'>·
-    <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·
+    <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
    </span>
   <a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html" title=" Institut für Nachrichtentechnik">
-  <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Institut für Nachrichtentechnik (intern)</span>
+  <span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif">Institut für Nachrichtentechnik (intern)</span>
   </a>
   </p>
 	  
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;
+     margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
 	</span>
-	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/"  title="Labor für EMV">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Labor für EMV, ARD 1994 </span>
+	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/" title="Labor für EMV">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Labor für EMV, ARD 1994 </span>
 	</a>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
-
-
-
-	  
-	  
-	  
-	  
-	  
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+  
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;
+   text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
 	</span>
-	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/"  title="3D-Fernshtechnik">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Fernsehtechnik, ARD 8.11.2001 </span>
+	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/" title="3D-Fernshtechnik">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3D-Fernsehtechnik, ARD 8.11.2001 </span>
 	</a>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
 	  
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;
+   text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
 	</span>
-	<a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/"  title="3D-Vdeotechnik">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>3D-Videotechnik, SAT1 8.11.2001 </span>
+	<a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/" title="3D-Vdeotechnik">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3D-Videotechnik, SAT1 8.11.2001 </span>
 	</a>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
-
 	
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;
+   text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </span>
 	</span>
-	<a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/"  title="Luft- und Raumfahrt">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Luft- und Raumfahrt 2009 </span>
+	<a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/" title="Luft- und Raumfahrt">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Luft- und Raumfahrt 2009 </span>
 	</a>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
-
 	  
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm; margin-left:18.0pt;margin-bottom:.0001pt;
+   text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 	</span>
 	<a href="#Forschung" title="Forschung und Hochschullehre">
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Forschung und Hochschullehre</span>
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Forschung und Hochschullehre</span>
 	</a>
 </p>
-	  
-	  
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;  margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'>
-	<span style='font-size:10.0pt;font-family:Symbol'>·
-		<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+	  	  
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;  margin-left:18.0pt;margin-bottom:.0001pt;
+   text-indent:-18.0pt;line-height:normal">
+	<span style="font-size:10.0pt;font-family:Symbol">·
+		<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 	</span>
-	<a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title=ALUMNI>
-		<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>ehemalige Studierende ALUMNI</span>
+	<a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ehemalige Studierende ALUMNI</span>
 	</a>
 </p>
-	
-	  
-	  
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
-	  <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+		  
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal">
+	  <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
 
 	  
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
 	  
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Stand: 2023</span>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Stand: 2023</span>
 </p>
 </td>
 	  
-	  
-<td width=263 valign=top style='width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+<td style="width:208.05pt;padding:0cm 5.4pt 0cm 5.4pt" width="263" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
   <b>
-  <span style='font-family:"Times New Roman",serif'>Drei  Generationen Nachrichtentechnik</span></b><span style='font-family:"Times New Roman",serif'>
-  </span>
+  <span style="font-family:&quot;Times New Roman&quot;,serif">Drei  Generationen Nachrichtentechnik</span>
+  </b>
   </p>
 
-
-
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Times New Roman",serif'><img border=0
-  width=248 height=173 id="Grafik 4" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAfAAAAFaCAYAAADhKw9uAAAAAXNSR0ICQMB9xQAAAAlwSFlzAAAd
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-family:&quot;Times New Roman&quot;,serif">
+<img id="90.Geburtstag" src="data:image/jpg;base64,
+iVBORw0KGgoAAAANSUhEUgAAAfAAAAFaCAYAAADhKw9uAAAAAXNSR0ICQMB9xQAAAAlwSFlzAAAd
 hwAAHYcBj+XxZQAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAP+QSURBVHja
 zP11dB3ptuWJmlmmZOY0ptPMzCSzZQssZmbLJIPAltliZtkWM8tsGdIMabYz85xzb9Wtrlvd/bpG
 va5R4/V8a60vYmtLlmw5zzl39B8xtrQhdkRsaf++uWCuLucv16L5ViNuPb6Iuy+aabuMO8//+dvt
@@ -9290,483 +9293,596 @@ fpRoSKVy3FyAbEWlANkaAcrfWVHzjVXGmEvkMQm8a2EVCwMJ4L5SG4PxV1+XCsAtF6Ds4Rg2MeFT
 tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
 6cG3tT6cqvbysWgh0ZJYt18LPU+Vo6YZ3cycSgwnEMDr/ld5qhtZVsA82FQ+i9302uGWHd9kl0G5
 /Z9ViE3xOCMWwwAAAABJRU5ErkJggg==
-"></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
-    <span style='font-family:"Times New Roman",serif'>90. Geburtstag von Doz. Dr.-Ing. Schröder</span>
+" width="248" height="173" border="0">
+</span>
+</p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-family:&quot;Times New Roman&quot;,serif">90. Geburtstag von Doz. Dr.-Ing. Schröder</span>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Times New Roman",serif'>Prof. Dr.-Ing.
-  Rommel (Mitte)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
-    <span style='font-family:"Times New Roman",serif'>Prof. Dr.-Ing. Schmatz (Links)</span>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-family:&quot;Times New Roman&quot;,serif">Prof. Dr.-Ing. Rommel (Mitte)</span>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
-    <span style='font-family:"Times New Roman",serif'>INT 1996</span>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-family:&quot;Times New Roman&quot;,serif">Prof. Dr.-Ing. Schmatz (Links)</span>
+  </p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-family:&quot;Times New Roman&quot;,serif">INT 1996</span>
   </p>
  </td>
  </tr>
+</tbody>
 </table>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'></span>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"></span>
 </p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
 </p>
 
-<span style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'>
-	<br clear=all style='page-break-before:always'>
+<span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+	<br style="page-break-before:always" clear="all">
 </span>
 
-<p class=MsoNormal>
- <span style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'>&nbsp;</span>
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">&nbsp;
+	</span>
 </p>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=0 
-  style='width:18.0cm;margin-left:6.9pt;border-collapse:collapse;border:none'>
+<table class="MsoTableGrid" style="width:18.0cm;margin-left:6.9pt;border-collapse:collapse;
+              border:none" width="0" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <a name="Forschung"></a>
+   <b><u><span style="font-size:12.0pt;font-family: &quot;Times New Roman&quot;,serif">
+   <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">Forschung</a>
+   </span></u></b>
+  </p>
 
- <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <a name=Forschung></a><b><u><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>
-	  <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">Forschung</a>
-	  </span>
-	  </u>
-	  </b>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+      <span style="font-size:12.0pt;color:windowtext;text-decoration:none">Forschungsprojekte, Tagungen, Konferenzen</span>
+    </a>
+    <span class="MsoHyperlink">
+	<span style="font-size:12.0pt;color:windowtext;text-decoration:none">, Publikationen</span>
+    </span>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-	  <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
-	  <span style='font-size:12.0pt;color:windowtext;text-decoration:none'>Forschungsprojekte, Tagungen, Konferenzen</span>
-	  </a>
-	  <span class=MsoHyperlink>
-		  <span style='font-size:12.0pt;color:windowtext;text-decoration:none'>, Publikationen</span>
-	  </span>
-  </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>(teilweise
-  passwortgeschützt)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">(teilweise passwortgeschützt)</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
   </td>
 	 
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">Anmeldung</a>
+   </span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
   </td>
 	 
  </tr>
 	
  <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a
-  href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><b><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hochschulehre</span></b></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrveranstaltungen,
-  Abschlussarbeiten, Weiterbildung, Kolloquien </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>1</span><span
-  style='font-size:12.0pt'>975-1992, 1992-2018, ab 2019</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'> (teilweise
-  passwortgeschützt)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  </td>
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  </td>
- </tr>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Hochschulehre</span></b>
+   </a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+      Lehrveranstaltungen, Abschlussarbeiten, Weiterbildung, Kolloquien </span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"></span>
+   <span style="font-size:12.0pt">1975-1992, 1992-2018, ab 2019</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (teilweise passwortgeschützt)</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+ </td>
+
+ <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">Anmeldung</a>
+   </span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+ </td>
+</tr>
 	
- <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
+<tr>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+    <b><u>
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lehrveranstaltungen </span>
+    </u> </b>
+  </p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
     <b>
-    <u>
-    <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrveranstaltungen </span>
-    </u>
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp; <u>1992-2018:</u> </span>
     </b>
   </p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-    <b>
-    <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp; <u>bis 1992-2018:</u> </span>
-    </b>
-  </p>
-  <ul style='margin-top:0cm' type=disc>
+  <ul style="margin-top:0cm" type="disc">
   
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
      <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-     <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> GEL1 - Grundlagen der Elektrotechnik 1 (M1.6)</span>
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> GEL1 - Grundlagen der Elektrotechnik 1 (M1.6)</span>
      </a>
    </li>
    
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>GEL2- Grundlagen der Elektrotechnik 2 (M2.6) </span>
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">GEL2- Grundlagen der Elektrotechnik 2 (M2.6) </span>
        </a>
    </li>
  
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">SuS – Signale und Systeme (M3.2)</a>
        </span>
   </li>
  
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>EMW – Elektromagnetische Wellen (M3.4) </span>
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">EMW – Elektromagnetische Wellen (M3.4) </span>
        </a>
    </li>
    
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'> GIT - Grundlagen der Informationstechnik (M4.8) </span>
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> GIT - Grundlagen der Informationstechnik (M4.8) </span>
        </a>
    </li>
    
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">DSV - Digitale Signalverarbeitung (M5.11)</a>
        </span>
   </li>
   
-    <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+    <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">PRJ 1 - Projekt in der Informationstechnik (M6.1)</a>
        </span>
   </li>
          
-   <li class=MsoNormal style='color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-       <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+   <li class="MsoNormal" style="color:blue;margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+       <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">ITS - Informationstechnische Systeme (M6.7)</a>
        </span>
     </li>
     
   </ul>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;
-  <u>ab 2019:</u>&nbsp;&nbsp; </span></b></p>
-  <ul style='margin-top:0cm' type=disc>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://m-server.fk5.hs-bremen.de/plan/dozent.aspx?code=SCHMATZ&amp;semester=ws19&amp;team=4"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Veranstaltungsplan</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;     line-height:normal'><a
-       href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Lehrunterlagen</span></a><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Projekte</span></a><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> (passwortgeschützt)</span></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.aulis.hs-bremen.de/goto.php?target=crs_1106319&amp;client_id=hsbremen"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Projekte</span></a><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> (offen)</span></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://www.aulis.hs-bremen.de/goto.php?target=crs_1118557&amp;client_id=hsbremen"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Projekte</span></a><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'> (offen)</span></li>
+
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;<u>ab 2019:</u>&nbsp;&nbsp; </span></b>
+  </p>
+
+  <ul style="margin-top:0cm" type="disc">
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://m-server.fk5.hs-bremen.de/plan/dozent.aspx?code=SCHMATZ&amp;semester=ws19&amp;team=4">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Veranstaltungsplan</span>
+    </a>
+   </li> 
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;     line-height:normal">
+    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lehrunterlagen</span>
+    </a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> </span>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Projekte</span>
+    </a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (passwortgeschützt)</span>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_1106319&amp;client_id=hsbremen">
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Projekte</span>
+    </a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (offen)</span>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_1118557&amp;client_id=hsbremen">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Projekte</span></a>
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (offen)</span>
+   </li>
   </ul>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>    
-  *</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
-  Die Zugriffsdaten erhalten Sie in der Lehrveranstaltung</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  </td>
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Anmeldung</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Anmeldung</span></a></p>
-  </td>
- </tr>
- <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Tutorials</span></u></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>     
-  Exakte Simulation zu den Herleitungen aus den Vorlesungen (Mathcad)</span></p>
-  <ul style='margin-top:0cm' type=disc>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>komplexe
-       Zeitfunktion</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>komplexer
-       Drehzeiger</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Fourierreihe
-       Zeiger- und Liniendiagramm</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Laplace-Transformation
-       Zeitfunktion  - PN-Plan</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Faltungsoperation
-       am Beispiel des RC-Tiefpasses</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Raised
-       Cossinus</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Frequenzspektrum
-       der Winkelmodulation als Funktion des Phasenhubes</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Phasenmodulation
-       und Frequenzmodulation ohne u. mit Bandbegrenzung</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>CPFSK-Spektrum</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Stehende
-       Welle mit komplexem Abschluß</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>EMV-Labor
-       (Simulation im Raum- und Zeitbereich)</span></a></li>
-   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
-       line-height:normal'><a
-       href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/"><span
-       style='font-size:12.0pt;font-family:"Times New Roman",serif'>Frequenzabhängige
-       Richtcharakteristik des DUT in 1 m Höhe</span></a></li>
-  </ul>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:18.0pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  </td>
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>*</span></b><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'> Zugriffsdaten
-  erhalten Sie in der Lehrveranstaltung</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></b>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+  <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;*</span></b>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+   Die Zugriffsdaten erhalten Sie in der Lehrveranstaltung</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+ </td>
+
+  <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">Anmeldung</a></span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Anmeldung</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Anmeldung</span></a>
+  </p>
   </td>
  </tr>
+
  <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><u><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>weitere
-  Unterlagen und Empfehlungen</span></u></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakultäten/Fakultät_4/Elektrotechnik/Prüfungsordnung/2016_12_27_abl_nr_0265_hs_bpo_elektrotechnik_signed.pdf"
-  target="_blank"><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Elektrotechnik
-  B. Eng. - Prüfungsordnung</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf"
-  target="_blank"><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Elektrotechnik
-  B. Eng. - Modulhandbuch</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://www.mathcad.com/de/-/media/files/pdfs/mathcad/ptc-mathcad-prime-9-datasheet_de.pdf"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Mathcad Prime</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Mathcad 15 -
-  Handbooks, Toolboxes</span></a><span style='font-size:12.0pt;font-family:
-  "Times New Roman",serif;color:blue'>  </span><span style='font-size:12.0pt;
-  font-family:"Times New Roman",serif'>(für Kursteilnehmer)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://en.smath.com/view/SMathStudio/summary"><span style='font-size:
-  12.0pt;font-family:"Times New Roman",serif'>SMath Studio</span></a><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'> (Ersatz für
-  Mathcad 15)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:10.0pt;font-family:Symbol'>·</span><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp; </span><a
-  href="https://de.mathworks.com/products/matlab.html" target="_blank"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>MATLAB und
-  Simulink</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-  18.0pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tutorials</span></u></b>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Exakte Simulation zu den Herleitungen aus den Vorlesungen (Mathcad)</span>
+  </p>
+
+  <ul style="margin-top:0cm" type="disc">
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+     <a href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/">
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">komplexe Zeitfunktion</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+     <a href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/">
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">komplexer Drehzeiger</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Fourierreihe Zeiger- und Liniendiagramm</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+     <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+     <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
+     <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Faltungsoperation am Beispiel des RC-Tiefpasses</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Raised Cossinus</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Frequenzspektrum der Winkelmodulation als Funktion des Phasenhubes</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Phasen- und Frequenzmodulation ohne u. mit Bandbegrenzung</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CPFSK-Spektrum</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Stehende Welle mit komplexem Abschluß</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">EMV-Labor (Simulation im Raum- und Zeitbereich)</span></a>
+   </li>
+
+   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <a href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Frequenzabhängige Richtcharakteristik des DUT in 1 m Höhe</span></a>
+   </li>
+ </ul>
+
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:18.0pt;margin-bottom:.0001pt;line-height:normal">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
   </td>
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><a
-  href="https://aulis.hs-bremen.de/login.php?target=cat_50&cmd=force_login&lang=en">Anmeldung</a></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a href="https://en.smath.com/view/SMathStudio/download"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Free Download</span></a></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><a
-  href="https://de.mathworks.com/campaigns/products/trials.html?gclid=EAIaIQobChMIhuavicuL_gIVuejmCh1Q-w2-EAAYASAAEgLSR_D_BwE&amp;ef_id=EAIaIQobChMIhuavicuL_gIVuejmCh1Q-w2-EAAYASAAEgLSR_D_BwE:G:s&amp;s_kwcid=AL!8664!3!464632327812!e!!g!!matlab%20download&amp;s_eid=ppc_7829185042&amp;q=matlab%20download"><span
-  style='font-size:12.0pt;font-family:"Times New Roman",serif'>Download</span></a></p>
+
+  <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">*</span></b>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> Zugriffsdaten erhalten Sie in der Lehrveranstaltung</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
   </td>
  </tr>
-	
-	
+
  <tr>
-  <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-  <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>   &nbsp;
-   
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">weitere Unterlagen und Empfehlungen</span></u></b>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Pr%C3%BCfungsordnung/2016_12_27_abl_nr_0265_hs_bpo_elektrotechnik_signed.pdf"
+   target="_blank"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Elektrotechnik B. Eng. - Prüfungsordnung</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf"
+   target="_blank"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Elektrotechnik B. Eng. - Modulhandbuch</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://www.mathcad.com/de/-/media/files/pdfs/mathcad/ptc-mathcad-prime-9-datasheet_de.pdf">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Mathcad Prime</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Mathcad 15 - Handbooks, Toolboxes</span>
+   </a><span style="font-size:12.0pt;font-family: &quot;Times New Roman&quot;,serif;color:blue">&nbsp; </span>
+      <span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif">(für Kursteilnehmer)</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://en.smath.com/view/SMathStudio/summary">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SMath Studio</span>
+   </a>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> (Ersatz für Mathcad 15)</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:10.0pt;font-family:Symbol">·</span>
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp; </span>
+   <a href="https://de.mathworks.com/products/matlab.html" target="_blank">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MATLAB und Simulink</span>
+   </a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-indent:18.0pt;line-height:normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+  </td>
+
+
+  <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+   normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">Anmeldung</a></span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://en.smath.com/view/SMathStudio/download">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Free Download</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://de.mathworks.com/campaigns/products/trials.html?gclid=EAIaIQobChMIhuavicuL_gIVuejmCh1Q
+-w2-EAAYASAAEgLSR_D_BwE&amp;ef_id=EAIaIQobChMIhuavicuL_gIVuejmCh1Q-w2-EAAYASAAEgLSR_D_BwE:G:s&amp;
+s_kwcid=AL!8664!3!464632327812!e!!g!!matlab%20download&amp;s_eid=ppc_7829185042&amp;q=matlab%20download">
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Download</span></a>
+</p>
+</td>
+</tr>
+		
+ <tr>
+  <td style="width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="539" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">   &nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+  <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Webcams</span></u></b></p>
+
+
+  <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://hotel-neptun.panomax.com/web/">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Neptun Warnemünde</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Hotel Neptun Warnemünde</span>
 	</a>
  </li>
 	
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-	<a href="https://ipcamlive.com/player/player.php?alias=atlantic1&autoplay=0&mute=0">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hotel Atlantic Warnemünde</span>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Hotel Atlantic Warnemünde</span>
 	</a>
  </li>	
 	
-<li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Strandhotel Hübner Warnemünde</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Strandhotel Hübner Warnemünde</span>
 	</a>
  </li>		
 	
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Am Strom Warnemünde</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Am Strom Warnemünde</span>
 	</a>
  </li>		
 	
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://www.rostock-port.de/livecam">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Rostock Port</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Rostock Port</span>
 	</a>
  </li>		
 	
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
-	<a href="https://nordkapp.panomax.com">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Nordkap</span>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://nordkapp.panomax.com/">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Nordkap</span>
 	</a>
  </li>
 	  
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://hrx.panomax.com/ra">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>MS Roald Amundsen</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MS Roald Amundsen</span>
 	</a>
  </li>
 	  
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://hrx.panomax.com/fn">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>MS Fridtjof Nansen</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">MS Fridtjof Nansen</span>
 	</a>
  </li>
 	  
- <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal'>
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
 	<a href="https://zugspitze.panomax.com/">
-	<span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Zugspitze</span>
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Zugspitze</span>
+	</a>
+ </li>
+
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+     <a href="https://www.foto-webcam.eu/webcam/zugspitze">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Foto-webcam</span>
+     </a>
+  </li>
+ 
+ </td>
+		
+ <td style="width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt" width="142" valign="top">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+    <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Expeditionen</span></u></b></p>
+
+<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Neuseeland</span>
+	</a>
+ </li>
+
+ <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Galapagos</span>
+	</a>
+ </li>
+
+<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Alaska</span>
 	</a>
  </li>
  
-  </span></p>
-  </td>
-	
-	
-  <td width=142 valign=top style='width:106.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-    <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
-	<a href="https://www.foto-webcam.eu/webcam/zugspitze">
-	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Foto-webcam</span>
+<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
+	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Antarktis</span>
 	</a>
-    </li>
-  </td>
-  
-  </td>
- </tr>
+ </li>
+
+
+ </td>
+
+</tr>
+
+</tbody>
+
 </table>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal"><span style="font-size:12.0pt">&nbsp;</span></p>
 
 </div>
-
+</div>
+ 
 </body>
-
 </html>
