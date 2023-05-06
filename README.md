@@ -3720,7 +3720,7 @@ SXDXBEMAAAAASUVORK5CYII=
     <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </span>
    </span>
-  <a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html" title=" Institut für Nachrichtentechnik">
+  <a href="https://aulis.hs-bremen.de/goto.php?target=fold_1856298&client_id=hsbremen" title=" Institut für Nachrichtentechnik">
   <span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif">Institut für Nachrichtentechnik (intern)</span>
   </a>
   </p>
