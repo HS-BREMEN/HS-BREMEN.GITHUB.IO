@@ -9291,17 +9291,18 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
 6cG3tT6cqvbysWgh0ZJYt18LPU+Vo6YZ3cycSgwnEMDr/ld5qhtZVsA82FQ+i9302uGWHd9kl0G5
 /Z9ViE3xOCMWwwAAAABJRU5ErkJggg==
 "></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Times New Roman",serif'>90. Geburtstag von
-  Doz. Dr.-Ing. Schröder</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+    <span style='font-family:"Times New Roman",serif'>90. Geburtstag von Doz. Dr.-Ing. Schröder</span>
+  </p>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-family:"Times New Roman",serif'>Prof. Dr.-Ing.
   Rommel (Mitte)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Times New Roman",serif'>Prof. Dr.-Ing.
-  Schmatz (Links)</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Times New Roman",serif'>INT 1996</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+    <span style='font-family:"Times New Roman",serif'>Prof. Dr.-Ing. Schmatz (Links)</span>
+  </p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+    <span style='font-family:"Times New Roman",serif'>INT 1996</span>
+  </p>
  </td>
  </tr>
 </table>
@@ -9318,16 +9319,17 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
 	<br clear=all style='page-break-before:always'>
 </span>
 
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Times New Roman",serif'>&nbsp;
-	</span>
+<p class=MsoNormal>
+ <span style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif'>&nbsp;</span>
 </p>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=0 style='width:18.0cm;margin-left:6.9pt;border-collapse:collapse;border:none'>
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=0 
+  style='width:18.0cm;margin-left:6.9pt;border-collapse:collapse;border:none'>
+
  <tr>
   <td width=539 valign=top style='width:404.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'>
-	  <a name=Forschung></a><b><u><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>
+  <a name=Forschung></a><b><u><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>
 	  <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen">Forschung</a>
 	  </span>
 	  </u>
