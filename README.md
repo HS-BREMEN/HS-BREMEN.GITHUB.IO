@@ -9568,6 +9568,16 @@ tSUAqvCtAOLq6kKlQFfALnIC/bNf+fgzBP7E4M/UFAFny4SVA99UAN9VMmDT/ciMXOxbKwCf9q09
    <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">
    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Anmeldung</span></a>
   </p>
+  
+   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Anmeldung</span></a>
+  </p>
+
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+   <a href="https://aulis.hs-bremen.de/login.php?target=cat_50&amp;cmd=force_login&amp;lang=en">
+   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Anmeldung</span></a>
+  </p>
   </td>
  </tr>
 
