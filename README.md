@@ -1,7 +1,4 @@
 <HTML>
-<HEAD>
-<TITLE>Weiterleitung</TITLE>
-</HEAD>
 <BODY>
 <META HTTP-EQUIV="Refresh" CONTENT="0; URL=https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
 </BODY>
