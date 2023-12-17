@@ -1041,26 +1041,6 @@ s_kwcid=AL!8664!3!464632327812!e!!g!!matlab%20download&amp;s_eid=ppc_7829185042&
     </b>
   </p>
 
-<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
-	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen
-	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
-        La Gomera</span>
-	</a>
-  </li>
-
-<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
-	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen
-	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
-        Playa de Santiago</span>
-	</a>
-  </li>
-
-<li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
-	<a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen
-	<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
-        Jardin Tecina</span>
-	</a>
-  </li>
 
 
   <li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt; line-height:normal">
