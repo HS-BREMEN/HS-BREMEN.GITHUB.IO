@@ -4,7 +4,7 @@
    <meta name="description" content="" />
    <meta name="keywords" content="HTML, Metatags" />
    <meta name="H.S." content="gp" />
-   <title>HS-BREMEN</title>
+  
 </head>
  
 <style>
