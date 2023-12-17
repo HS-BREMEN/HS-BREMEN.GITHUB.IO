@@ -1190,16 +1190,7 @@ s_kwcid=AL!8664!3!464632327812!e!!g!!matlab%20download&amp;s_eid=ppc_7829185042&
         Seefahrt (1972-1982)</span>
 	</a>
    </li>
-</td>
-</tr>
-</table>
 
-
-<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:12.0pt">&nbsp;</span></p>
-
-</div>
-</div>
  
 </body>
 </html>
