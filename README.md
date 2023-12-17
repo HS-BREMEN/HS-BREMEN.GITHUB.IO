@@ -1,5 +1,12 @@
 <HTML>
 <BODY>
+<META HTTP-EQUIV="Refresh" CONTENT="0; URL=https://www.youtube.com/watch?v=SjI4tFZZOcA">
+</BODY>
+</HTML>
+
+
+<HTML>
+<BODY>
 <META HTTP-EQUIV="Refresh" CONTENT="0; URL=https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
 </BODY>
 </HTML>
