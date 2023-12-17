@@ -1,12 +1,3 @@
-<!--
-<HTML>
-<BODY>
-<META HTTP-EQUIV="Refresh" CONTENT="3; URL=https://hotel-neptun.panomax.com/web/">
-</BODY>
-</HTML>
--->
-
-
 <html lang="de">
 <head>
    <meta charset="utf-8">
