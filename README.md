@@ -472,7 +472,7 @@ INT - Institut für Nachrichtentechnik</span></b>
    <span style="font-family:&quot;Times New Roman&quot;,serif">INT 1996</span>
   </p>
  </td>
- 
+ </tr>
 </tbody>
 </table>
 
