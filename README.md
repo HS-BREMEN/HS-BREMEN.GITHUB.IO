@@ -369,7 +369,7 @@
 
   <!-- ..................... Webcams ...................... -->
  
-<td style="width:90pt;padding:0cm 5.4pt 0cm 5.4pt" width="150" valign="top">
+<td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="150" valign="top">
      <p class="MsoNormal">
        <b>Webcams </b>   <br>
 
