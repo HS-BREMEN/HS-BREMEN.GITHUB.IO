@@ -178,8 +178,8 @@
       Prof. Dr.-Ing. Schmatz (Links)<br>
       INT 1996
     </p>
-  </td>    
-
+<!--  </td>    -->
+<!--  </tr>    -->
 </table>
 
  <!-- ..................... Lehrveranstaltungen ............................ -->
