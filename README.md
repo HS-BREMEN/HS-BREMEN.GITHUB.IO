@@ -40,14 +40,14 @@
        <td colspan="2">
           <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
             <b><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             INT - Institut für Nachrichtentechnik</span></b>
           </p>
           <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
             <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+            &nbsp;&nbsp;&nbsp;
             Gegründet 1992 an der Hochschule Bremen</span></b>
           </p>       
        </td>
