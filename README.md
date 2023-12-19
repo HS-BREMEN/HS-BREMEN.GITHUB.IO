@@ -30,7 +30,7 @@
            <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="396" height="115"> 
          </td>
       </tr>
-  
+
       <tr>
          <td colspan="2">
               <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="720" height="18"> 
@@ -40,14 +40,14 @@
        <td colspan="2">
           <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
             <b><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp
             INT - Institut für Nachrichtentechnik</span></b>
           </p>
           <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
             <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
             Gegründet 1992 an der Hochschule Bremen</span></b>
           </p>       
        </td>
@@ -178,7 +178,6 @@
       Prof. Dr.-Ing. Schmatz (Links)<br>
       INT 1996
     </p>
-  </td>    
  </tr>
 </table>
 
