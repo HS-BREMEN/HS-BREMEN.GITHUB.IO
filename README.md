@@ -369,7 +369,7 @@
 
   <!-- ..................... Webcams ...................... -->
  
-<td style="width:90pt;padding:0cm 5.4pt 0cm 5.4pt" width="200" valign="top">
+<td style="width:90pt;padding:0cm 5.4pt 0cm 5.4pt" width="150" valign="top">
      <p class="MsoNormal">
        <b>Webcams </b>   <br>
 
@@ -411,7 +411,7 @@
 
   <!-- ............... Expeditionen ...................... -->
 
-<td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="300" valign="top">
+<td style="width:150pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
      <p class="MsoNormal">
        <b>Expeditionen </b>   <br>
 
@@ -454,7 +454,7 @@
   </td>
 
   <!-- ................... Reisen .......................... -->
-<td style="width:140pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+<td style="width:140pt;padding:0cm 5.4pt 0cm 5.4pt" width="330" valign="top">
      <p class="MsoNormal">
        <b>Reisen </b>   <br>
 
