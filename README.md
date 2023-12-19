@@ -308,6 +308,7 @@
 </td>
  </table>
 
+
 <!-- ....................... privater Bereich ......................... -->
 
  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
@@ -322,200 +323,187 @@
     Privater Bereich nur für authorisierte MAC-Adressen</span></u></b>
   </p>
 
- 
+   <!-- ....................... Livecams  ............. --> 
 <table border="0" width="730">
 
-  <td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
- 
-
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Livecams</span></u>
-   </b>
-  </p>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://herberts.meinekameras.de:10169/#view">
-    HERBERTs.Kameras</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hotel-neptun.panomax.com/web/">
-    Hotel Neptun</a> <br>
+  <td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
 
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
-    Hotel Atlantic</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
-    Strandhotel Hübner</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
-    Am Strom</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://nordkapp.panomax.com/">
-    Nordkap</a> <br>			
-	
-  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hrx.panomax.com/ra">
-    MS Roald Amundsen</a> <br>
-	  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hrx.panomax.com/fn">
-    MS Fridtjof Nansen</a> <br>   
-	  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://zugspitze.panomax.com/">
-    Zugspitze</a> <br>
-    <br>
+     <p class="MsoNormal">
+       <b>Livecams </b>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://herberts.meinekameras.de:10169/#view">
+     HERBERTs.Kameras  </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://hotel-neptun.panomax.com/web/">
+      Hotel Neptun     </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
+    Hotel Atlantic </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
+     Strandhotel Hübner</a> <br>
   
-</td>
-
-<td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
+     Am Strom</a> <br>
  
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Webcams</span></u>
-    </b>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://nordkapp.panomax.com/">
+     Nordkap</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://hrx.panomax.com/fn">
+     MS Fridtjof Nansen</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://zugspitze.panomax.com/">
+     Zugspitze</a> <br>
+     <br>
   </p>
+  </td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-    La Gomera</a> <br>
+  <! -- ..................... Webcams ...................... -->
+ 
+<td style="width:90pt;padding:0cm 5.4pt 0cm 5.4pt" width="300" valign="top">
+     <p class="MsoNormal">
+       <b>Webcams </b>   <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
+     La Gomera</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
     Playa de Santiago</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-    Jardin Tecina</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
+     Jardin Tecina</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.foto-webcam.eu/webcam/zugspitze">
-    Foto-webcam</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.rostock-port.de/livecam">
-    Rostock Port</a> <br>
-  <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.vulkane.net/blogmobil/">
-    Vulkane News</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.foto-webcam.eu/webcam/zugspitze">
+     Foto-webcam</a> <br>
  
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/messina/stromboli.html">
-    Stromboli</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://www.rostock-port.de/livecam">
+      Rostock Port</a> <br>
+     <br>
 
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.vulkane.net/blogmobil/">
+     Vulkane News</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/catania/vulcano-etna-sud.html">
+     Etna</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
     Stromboli</a> <br>
   <br>
- 	
-</td>
-
-
-<td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
-
-
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Expeditionen</span></u>
-    </b>
   </p>
+ </td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.ilvulcanoapiedi.it/webcam/?lang=de">
+  <!-- ............... Expeditionen ...................... -->
+
+<td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+     <p class="MsoNormal">
+       <b>Expeditionen </b>   <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.ilvulcanoapiedi.it/webcam/?lang=de">
     Stromboli (2016)</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Neuseeland (2018)</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Galapagos (2021)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+      Alpenüberquerung(2021)</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Alaska (2022)</a> <br>
- 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Antarktis (2022)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+      Galapagos (2021)</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+      Alaska (2022)</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+      Antarktis (2022)</a> <br>
   
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Costa Rica (2023)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+      Costa Rica (2023)</a> <br>
  
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
      Kanada (2023)</a> <br>
 
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
      Südafrika (2023)</a> <br>
+</p>
+  </td>
 
-</td>
-
+  <!-- ................... Reisen .......................... -->
 <td style="width:140pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+     <p class="MsoNormal">
+       <b>Reisen </b>   <br>
 
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Reisen</span></u>
-    </b>
-  </p>
-
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Griechenland</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Italien</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Sizilien</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Frankreich</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Vereinigtes Königreich</a> <br>
+
  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Spanien</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Marokko</a> <br>
 
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
     Kroatien 2012 - ...</a> <br>
- 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Alpenüberquerung(2021)</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://webshare.hs-bremen.de/f/dc497c8609c94aa3b243/">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <a href="https://webshare.hs-bremen.de/f/dc497c8609c94aa3b243/">
     Seefahrt (1972-1982)</a> <br>
     <br>
-</td>
+
+  </p>
+  </td>
 </tr>
 </table>
 
 </body>
 </html>
-
- 
