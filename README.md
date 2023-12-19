@@ -93,10 +93,9 @@
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
      <b>weitere Aktivitäten</b>    <br>
-     <span style="font-size:10.0pt;font-family:Symbol">· </span> 
-        <! -- <a href="https://homepages.hs-bremen.de/~schmatz/INT/index.html"  -->
-        <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/"
-        title=" Institut für Nachrichtentechnik">
+
+     <span style="font-size:10.0pt;font-family:Symbol">·       </span> 
+        <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
         Institut für Nachrichtentechnik (intern)  </a> <br>
     
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
@@ -327,13 +326,12 @@
 <table border="0" width="730">
 
   <td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal">
-   <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">   &nbsp;</span>
-  <br>
-  </p>
+ 
 
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-  <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Livecams</span></u></b></p>
+    <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Livecams</span></u>
+   </b>
+  </p>
 
  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://herberts.meinekameras.de:10169/#view">
@@ -376,10 +374,7 @@
 </td>
 
 <td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
-  </p>
-
+ 
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
     <b><u><span style="font-size:12.0pt;font-family:&quot;
      Times New Roman&quot;,serif">Webcams</span></u>
@@ -413,20 +408,18 @@
  
 <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/messina/stromboli.html">
-    Stomboli</a> <br>
+    Stromboli</a> <br>
 
 <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
     <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
-    Stomboli</a> <br>
+    Stromboli</a> <br>
   <br>
  	
 </td>
 
 
 <td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
-  </p>
+
 
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
     <b><u><span style="font-size:12.0pt;font-family:&quot;
@@ -469,9 +462,6 @@
 </td>
 
 <td style="width:140pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span>
-  </p>
 
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
     <b><u><span style="font-size:12.0pt;font-family:&quot;
