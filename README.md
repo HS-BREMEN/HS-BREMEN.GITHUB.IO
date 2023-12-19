@@ -326,7 +326,7 @@
    <!-- ....................... Livecams  ............. --> 
 <table border="0" width="730">
 
-  <td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+  <td style="width 100pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
 
 
      <p class="MsoNormal">
@@ -411,7 +411,7 @@
 
   <!-- ............... Expeditionen ...................... -->
 
-<td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+<td style="width 120pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
      <p class="MsoNormal">
        <b>Expeditionen </b>   <br>
 
