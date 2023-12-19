@@ -326,192 +326,227 @@
 <table border="0" width="730">
 
   <td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
- 
 
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Livecams</span></u>
-   </b>
+
+     <p class="MsoNormal">
+       <b>Tutorials </b>   <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/">
+     komplexe Zeitfunktion   </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/">
+     komplexer Drehzeiger     </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/">
+     Fourierreihe Zeiger- und Liniendiagramm </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
+     Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
+     Faltungsoperation am Beispiel des RC-Tiefpasses </a> <br>
+ 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/">
+     Raised Cossinus  </a>  <br>
+
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/">
+     Frequenzspektrum der Winkelmodulation</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/">
+     Winkelmodulation ohne u. mit Bandbegrenzung</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/">
+     CPFSK-Spektrum  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/">
+     Stehende Welle mit komplexem Abschluß  </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/">
+     EMV-Labor (Simulation im Raum- und Zeitbereich) </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/">
+     Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
+  </td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://herberts.meinekameras.de:10169/#view">
-    HERBERTs.Kameras</a> <br>
+<td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hotel-neptun.panomax.com/web/">
-    Hotel Neptun</a> <br>
+     <p class="MsoNormal">
+       <b>Tutorials </b>   <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/">
+     komplexe Zeitfunktion   </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/">
+     komplexer Drehzeiger     </a>  <br>
 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/">
+     Fourierreihe Zeiger- und Liniendiagramm </a>  <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
-    Hotel Atlantic</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
-    Strandhotel Hübner</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
-    Am Strom</a> <br>
-	
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://nordkapp.panomax.com/">
-    Nordkap</a> <br>			
-	
-  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hrx.panomax.com/ra">
-    MS Roald Amundsen</a> <br>
-	  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://hrx.panomax.com/fn">
-    MS Fridtjof Nansen</a> <br>   
-	  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://zugspitze.panomax.com/">
-    Zugspitze</a> <br>
-    <br>
-  
-</td>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
+     Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan  </a>  <br>
 
-<td style="width:110pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
+     Faltungsoperation am Beispiel des RC-Tiefpasses </a> <br>
  
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Webcams</span></u>
-    </b>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/">
+     Raised Cossinus  </a>  <br>
+
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/">
+     Frequenzspektrum der Winkelmodulation</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/">
+     Winkelmodulation ohne u. mit Bandbegrenzung</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/">
+     CPFSK-Spektrum  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/">
+     Stehende Welle mit komplexem Abschluß  </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/">
+     EMV-Labor (Simulation im Raum- und Zeitbereich) </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/">
+     Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
+  </td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-    La Gomera</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-    Playa de Santiago</a> <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-    Jardin Tecina</a> <br>
+<td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.foto-webcam.eu/webcam/zugspitze">
-    Foto-webcam</a> <br>
+     <p class="MsoNormal">
+       <b>Tutorials </b>   <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/">
+     komplexe Zeitfunktion   </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/">
+     komplexer Drehzeiger     </a>  <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.rostock-port.de/livecam">
-    Rostock Port</a> <br>
-  <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/">
+     Fourierreihe Zeiger- und Liniendiagramm </a>  <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.vulkane.net/blogmobil/">
-    Vulkane News</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
+     Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
+     Faltungsoperation am Beispiel des RC-Tiefpasses </a> <br>
  
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/messina/stromboli.html">
-    Stromboli</a> <br>
-
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
-    Stromboli</a> <br>
-  <br>
- 	
-</td>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/">
+     Raised Cossinus  </a>  <br>
 
 
-<td style="width:124pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/">
+     Frequenzspektrum der Winkelmodulation</a> <br>
 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/">
+     Winkelmodulation ohne u. mit Bandbegrenzung</a> <br>
 
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Expeditionen</span></u>
-    </b>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/">
+     CPFSK-Spektrum  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/">
+     Stehende Welle mit komplexem Abschluß  </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/">
+     EMV-Labor (Simulation im Raum- und Zeitbereich) </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/">
+     Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
+  </td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://www.ilvulcanoapiedi.it/webcam/?lang=de">
-    Stromboli (2016)</a> <br>
+<td>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Neuseeland (2018)</a> <br>
+     <p class="MsoNormal">
+       <b>Tutorials </b>   <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/9777cae576a343b6b510/">
+     komplexe Zeitfunktion   </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/a373a0c91a394fdaa45c/">
+     komplexer Drehzeiger     </a>  <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Galapagos (2021)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/e223548b7aa34136a1fe/">
+     Fourierreihe Zeiger- und Liniendiagramm </a>  <br>
 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Alaska (2022)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
+     Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
+     Faltungsoperation am Beispiel des RC-Tiefpasses </a> <br>
  
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Antarktis (2022)</a> <br>
-  
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Costa Rica (2023)</a> <br>
- 
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Kanada (2023)</a> <br>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/25241c6d2311473bbcdc/">
+     Raised Cossinus  </a>  <br>
 
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-     Südafrika (2023)</a> <br>
 
-</td>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/5552877954b54a6fa760/">
+     Frequenzspektrum der Winkelmodulation</a> <br>
 
-<td style="width:140pt;padding:0cm 5.4pt 0cm 5.4pt" width="350" valign="top">
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/064e7b2638824a0b9191/">
+     Winkelmodulation ohne u. mit Bandbegrenzung</a> <br>
 
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-    <b><u><span style="font-size:12.0pt;font-family:&quot;
-     Times New Roman&quot;,serif">Reisen</span></u>
-    </b>
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/79172ca390d04e9e8d87/">
+     CPFSK-Spektrum  </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/eca769ca82644107a2e4/">
+     Stehende Welle mit komplexem Abschluß  </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/fb0cf897c4584ae3af82/">
+     EMV-Labor (Simulation im Raum- und Zeitbereich) </a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://webshare.hs-bremen.de/f/bc1e70c29b404909bea9/">
+     Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
-
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Griechenland</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Italien</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Sizilien</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Frankreich</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Vereinigtes Königreich</a> <br>
- 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Spanien</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Marokko</a> <br>
-
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Kroatien 2012 - ...</a> <br>
- 
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://aulis.hs-bremen.de/goto.php?target=file_1696836_download&client_id=hsbremen">
-    Alpenüberquerung(2021)</a> <br>
-
- <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-    <a href="https://webshare.hs-bremen.de/f/dc497c8609c94aa3b243/">
-    Seefahrt (1972-1982)</a> <br>
-    <br>
-</td>
+  </td>
 </tr>
 </table>
 
