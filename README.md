@@ -359,6 +359,9 @@
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://nordkapp.panomax.com/">
      Nordkap</a> <br>
+  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://hrx.panomax.com/ra">
+     MS Roald Amundsen</a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://hrx.panomax.com/fn">
