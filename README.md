@@ -1,4 +1,4 @@
-<html lang="de"> 
+<html lang="de">
 <head>
    <meta charset="utf-8">
    <meta name="description" content="" />
@@ -179,7 +179,7 @@
       INT 1996
     </p>
  </td>
- </tr>
+
 </table>
 
  <!-- ..................... Lehrveranstaltungen ............................ -->
@@ -305,7 +305,7 @@
      Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
   </td>
- </td>
+
 </table>
 
 
