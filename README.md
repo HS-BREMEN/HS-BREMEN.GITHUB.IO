@@ -347,6 +347,10 @@
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
      Strandhotel Hübner</a> <br>
+
+<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.youtube.com/embed/SjI4tFZZOcA?si=ALm9JMAUkdViq5UA">
+     Küstenpanorama </a> <br>
   
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
