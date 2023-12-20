@@ -269,7 +269,7 @@
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://webshare.hs-bremen.de/f/3042cfb4338f48618653/">
-     Laplace-Transformation, Zeitfunktion&nbsp; - PN-Plan  </a>  <br>
+     Laplace-Transformation, Zeitfunktion - PN-Plan  </a>  <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://webshare.hs-bremen.de/f/85d4e2c81a764eba9ea0/">
@@ -305,8 +305,8 @@
      Frequenzabhängige Richtcharakteristik des DUT in 1 m</a> <br>
   </p>
   </td>
-</td>
- </table>
+ </td>
+</table>
 
 
 <!-- ....................... privater Bereich ......................... -->
@@ -502,7 +502,7 @@
 
   </p>
   </td>
-</tr>
+ </tr>
 </table>
 
 </body>
