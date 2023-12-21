@@ -382,11 +382,11 @@
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-     Playa de Santiago WiFi</a> <br>
+     Playa de Santiago</a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://youtu.be/aAakCSjqKzo">
-    Playa de Santiago</a> <br>
+    Playa de Santiago WiFi</a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
      <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
