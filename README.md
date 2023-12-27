@@ -12,7 +12,7 @@
 
     <META HTTP-EQUIV="Refresh" CONTENT="30; URL=https://bremerhaven.panomax.com">
 
-    <table border="1" width="600">
+    <table border="0" width="600">
       <tr>
          <td>
            <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
@@ -46,7 +46,7 @@
  </table>
 
  <!-- ---- ANSCHRIFT ---- -->
- <table border="1" width="600">
+ <table border="0" width="600">
   <td width="360">
        <p class="MsoNormal">
        <b>Anschrift </b>   <br>
