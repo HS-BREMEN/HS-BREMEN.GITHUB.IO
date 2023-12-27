@@ -10,25 +10,21 @@
 
 <body>
 
-<META HTTP-EQUIV="Refresh" CONTENT="30; URL=https://bremerhaven.panomax.com">
+    <META HTTP-EQUIV="Refresh" CONTENT="30; URL=https://bremerhaven.panomax.com">
 
-    <div>
-    </div>
-  
-
-    <table border="0" width="580">
+    <table border="1" width="600">
       <tr>
          <td>
            <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
          </td>
          <td> 
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="302" height="100"> 
+           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="320" height="100"> 
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="570" height="10"> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="592" height="10"> 
         </td>
       </tr>
 
@@ -47,11 +43,11 @@
           </p>       
        </td>
 
-</table>
+ </table>
 
  <!-- ---- ANSCHRIFT ---- -->
- <table border="0" width="580">
-  <td width="340">
+ <table border="1" width="600">
+  <td width="360">
        <p class="MsoNormal">
        <b>Anschrift </b>   <br>
            Institut für Nachrichtentechnik<br>
@@ -59,6 +55,14 @@
            Neustadtswall 30  <br>
            28199 Bremen      <br>
        </p>
+
+ <!-- ............... Ansprechpartner .................. -->
+   <p class="MsoNormal">     
+       <b>Ansprechpartner:</b><br>
+         Prof. Dr.-Ing. Herbert Schmatz, i.R. <br> 
+       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
+         herbert.schmatz@hs-bremen.de </a> <br> 
+   </p>
 
    <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
       <p class="MsoNormal">
@@ -73,17 +77,11 @@
       <b> Internationale Kooperationen </b> <br>
       <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br>
       <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br>
-      <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik "Kando Kalman" Budapest</a>,(HU) <br>
+      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br>
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br>
       </p>
 
-   <!-- ............... Ansprechpartner .................. -->
-   <p class="MsoNormal">     
-       <b>Ansprechpartner</b>    <br>
-         Institutsleiter: Prof. Dr.-Ing. Herbert Schmatz, i.R. <br> 
-       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
-         herbert.schmatz@hs-bremen.de </a> <br> 
-   </p>
+   
 
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
@@ -142,7 +140,7 @@
 <!-- .......................... Bilder ..................... -->
   <td>
     <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/75592e8b093f43d7b200/?dl=1" 
-      width="168" height="233" border="0">
+      width="168" height="233" border="1">
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br>
       Leiter des INT 1992 - 2018 <br>
@@ -157,19 +155,15 @@
     </p>
     
     <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/499c88e518984004ab15/?dl=1" 
-      width="248" height="173" border="0">
+      width="248" height="173" border="1">
     <p class="MsoNormal">
-      90. Geburtstag von Doz. Dr.-Ing. Schröder <br>
+       INT 1996 <br>
+       3 Generationen Nachrichtentechnik <br>
+      Doz. Dr.-Ing. Schröder (Rechts)<br>
       Prof. Dr.-Ing. Rommel (Mitte) <br>
-      Prof. Dr.-Ing. Schmatz (Links)<br>
-      INT 1996
-    </p>
+      Prof. Dr.-Ing. Schmatz (Links)
+     </p>
  </td>
-
-
-
-
-
 </table>
 
 </body>
