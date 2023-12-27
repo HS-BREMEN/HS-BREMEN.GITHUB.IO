@@ -14,18 +14,9 @@
 
     <div>
     </div>
-    <style>
-    p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:0cm;
-	line-height:107%;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;}
-    </style>
+  
 
-    <table border="0" width="580">
+    <table border="1" width="580">
       <tr>
          <td>
            <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
