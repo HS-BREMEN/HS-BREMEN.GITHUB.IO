@@ -16,7 +16,7 @@
     </div>
   
 
-    <table border="1" width="580">
+    <table border="0" width="580">
       <tr>
          <td>
            <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
@@ -50,7 +50,7 @@
 </table>
 
  <!-- ---- ANSCHRIFT ---- -->
- <table border="1" width="580">
+ <table border="0" width="580">
   <td width="340">
        <p class="MsoNormal">
        <b>Anschrift </b>   <br>
