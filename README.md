@@ -25,19 +25,19 @@
 	font-family:"Calibri",sans-serif;}
     </style>
 
-    <table border="0" width="720">
+    <table border="1" width="580">
       <tr>
          <td>
-           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="320" height="115">  
+           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
          </td>
          <td> 
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="396" height="115"> 
+           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="302" height="100"> 
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="720" height="18"> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="570" height="10"> 
         </td>
       </tr>
 
@@ -59,8 +59,8 @@
 </table>
 
  <!-- ---- ANSCHRIFT ---- -->
- <table border="0" width="730">
-  <td width="450">
+ <table border="1" width="580">
+  <td width="340">
        <p class="MsoNormal">
        <b>Anschrift </b>   <br>
            Institut für Nachrichtentechnik<br>
@@ -82,7 +82,7 @@
       <b> Internationale Kooperationen </b> <br>
       <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br>
       <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br>
-      <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik "Kando Kalman" Budapest</a>,  (HU) <br>
+      <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik "Kando Kalman" Budapest</a>,(HU) <br>
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br>
       </p>
 
@@ -138,8 +138,14 @@
         title="Tagungen">
 	Tagungen, Konferenzen </a> <br>
   </p>
+     <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
+  <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&cmd=force_login&lang=de">
+   <b>AULIS-Anmeldung   </b></a>
+   <br>
+     <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
+   <a href="https://webshare.hs-bremen.de/accounts/login/?next=/dashboard/">
+   <b>privater Bereich</b></a>
 
- <iframe src="https://webshare.hs-bremen.de/accounts/login/?next=/dashboard/" ></iframe>
   </td>
 
 <!-- .......................... Bilder ..................... -->
@@ -168,6 +174,12 @@
       INT 1996
     </p>
  </td>
+
+
+
+
+
 </table>
+
 </body>
 </html>
