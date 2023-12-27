@@ -168,12 +168,6 @@
       INT 1996
     </p>
  </td>
-
 </table>
-
-
-
-</table>
-
 </body>
 </html>
