@@ -1,4 +1,4 @@
-<html lang="de">
+<html lang="de-DE">
 <head>
    <meta charset="utf-8">
    <meta name="description" content="" />
@@ -15,16 +15,16 @@
     <table border="0" width="600">
       <tr>
          <td>
-           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/beaf8432c23b46248c00/?dl=1" width="262" height="100">  
+           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="262" height="100">  
          </td>
          <td> 
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/ba46455f33074dde8009/?dl=1" width="320" height="100"> 
+           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="320" height="100"> 
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/c3eaa3dc3d9e4e0ba062/?dl=1" width="592" height="10"> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="592" height="10"> 
         </td>
       </tr>
 
@@ -56,15 +56,7 @@
            28199 Bremen      <br>
        </p>
 
- <!-- ............... Ansprechpartner .................. -->
-   <p class="MsoNormal">     
-       <b>Ansprechpartner:</b><br>
-         Prof. Dr.-Ing. Herbert Schmatz, i.R. <br> 
-       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
-         herbert.schmatz@hs-bremen.de </a> <br> 
-   </p>
-
-   <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
+    <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br>
       Anwendungsbezogene Forschung und Entwicklung,<br>
@@ -81,7 +73,7 @@
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br>
       </p>
 
-   
+ 
 
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
@@ -92,19 +84,19 @@
         Institut für Nachrichtentechnik (intern)  </a> <br>
     
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/" title="Labor für EMV">
+	<a href="https://webshare.hs-bremen.de/f/5fc3c03f46eb4cb39c65/" title="Labor für EMV">
         Labor für EMV, ARD 1994  </a> <br>
    
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/" title="3D-Fernshtechnik">
+	<a href="https://webshare.hs-bremen.de/f/a59c0352cd8b46858c91/" title="3D-Fernshtechnik">
 	3D-Fernsehtechnik, ARD 8.11.2001 </a> <br>
 	
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/" title="3D-Vdeotechnik">
+	<a href="https://webshare.hs-bremen.de/f/333fd02c4c2f44c2b4f7/" title="3D-Vdeotechnik">
 	3D-Videotechnik, SAT1 8.11.2001  </a><br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/" title="Luft- und Raumfahrt">
+	<a href="https://webshare.hs-bremen.de/f/d199e81bd47347f2825a/" title="Luft- und Raumfahrt">
 	Luft- und Raumfahrt 2009         </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
@@ -139,7 +131,7 @@
 
 <!-- .......................... Bilder ..................... -->
   <td>
-    <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/75592e8b093f43d7b200/?dl=1" 
+    <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" 
       width="168" height="233" border="1">
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br>
@@ -152,9 +144,11 @@
       Informationstechnik <br>
       <span style="font-size:10.0pt;font-family:Symbol">· </span> 	
       Signale und Systeme <br>
+      <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
+         herbert.schmatz@hs-bremen.de </a>
     </p>
     
-    <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/499c88e518984004ab15/?dl=1" 
+    <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" 
       width="248" height="173" border="1">
     <p class="MsoNormal">
        INT 1996 <br>
