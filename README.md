@@ -84,26 +84,25 @@
         Institut für Nachrichtentechnik (intern)  </a> <br>
     
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/5fc3c03f46eb4cb39c65/" title="Labor für EMV">
+	<a href="https://webshare.hs-bremen.de/seafhttp/files/7dd90672-01de-4416-81da-7c76e316bc33/EMV_05.10.1995_.mp4" title="Labor für EMV">
         Labor für EMV, ARD 1994  </a> <br>
    
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/a59c0352cd8b46858c91/" title="3D-Fernshtechnik">
+	<a href="hhttps://webshare.hs-bremen.de/seafhttp/files/02375a60-1beb-4cd0-af84-6bd5c084d12f/3D.mp4" title="3D-Fernshtechnik">
 	3D-Fernsehtechnik, ARD 8.11.2001 </a> <br>
 	
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/333fd02c4c2f44c2b4f7/" title="3D-Vdeotechnik">
+	<a href="https://webshare.hs-bremen.de/seafhttp/files/3a02274e-2d03-4b99-bbb7-d3c14ed7f123/SAT1.mp4" title="3D-Vdeotechnik">
 	3D-Videotechnik, SAT1 8.11.2001  </a><br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/d199e81bd47347f2825a/" title="Luft- und Raumfahrt">
+	<a href="https://webshare.hs-bremen.de/seafhttp/files/b4ca6418-df3a-439c-9d55-31dc4c1198f6/Flugtag.mp4" title="Luft- und Raumfahrt">
 	Luft- und Raumfahrt 2009         </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
 	 ehemalige Studierende ALUMNI	</a> <br>
     </p>
-
    <!-- ................... Forschung .................... -->
  
   <p class="MsoNormal" >
