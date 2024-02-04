@@ -84,7 +84,7 @@
         Institut für Nachrichtentechnik (intern)  </a> <br>
     
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/9834702e25d74f7a96be/?dl=1" title="Labor für EMV">
+	<a href="https://webshare.hs-bremen.de/f/9834702e25d74f7a96be/" title="Labor für EMV">
         Labor für EMV, ARD 1994  </a> <br>
    
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
