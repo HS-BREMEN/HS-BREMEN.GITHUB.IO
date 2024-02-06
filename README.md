@@ -15,10 +15,14 @@
     <table border="0" width="600">
       <tr>
          <td>
+	   <a href="https://www.hs-bremen.de/">
            <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="262" height="100">  
+	   </a>
          </td>
          <td> 
+	   <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
            <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="320" height="100"> 
+	   </a>
          </td>
       </tr>
   
@@ -131,8 +135,10 @@
 
 <!-- .......................... Bilder ..................... -->
   <td>
+    <a href="mailto:herbert.schmatz@hs-bremen.de">
     <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" 
       width="168" height="233" border="1">
+    </a>
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br>
       Leiter des INT 1992 - 2018 <br>
@@ -147,9 +153,11 @@
       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
          herbert.schmatz@hs-bremen.de </a>
     </p>
-    
-    <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" 
+	  
+     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
+     <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" 
       width="248" height="173" border="1">
+     </a>
     <p class="MsoNormal">
        INT 1996 <br>
        3 Generationen Nachrichtentechnik <br>
