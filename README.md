@@ -52,6 +52,7 @@
 
  </table>
 
+ <!-- ................  Spalte 1  ..................... -->
  <!-- ---- ANSCHRIFT ---- -->
  <table border="0" width="600">
   <td width="360">
@@ -68,18 +69,12 @@
       <b>Arbeitsschwerpunkte </b> <br />
       Anwendungsbezogene Forschung und Entwicklung,<br />
       Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br />
-      Weiterbildung und Hochschullehre <br />
+      Weiterbildung und 
+       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" 
+        title="Hochschulehre">
+	Hochschullehre	
+       </a> <br />
       </p>
-   
-   <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
-      <p class="MsoNormal">  
-      <b> Internationale Kooperationen </b> <br />
-      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
-      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
-      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
-      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
-      </p>
-
  
 
    <!-- .................. weitere Aktivitäten ........... -->
@@ -111,8 +106,8 @@
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
 	 ehemalige Studierende ALUMNI	</a> <br />
     </p>
+    
    <!-- ................... Forschung .................... -->
- 
   <p class="MsoNormal">
    <b> Forschung </b> (passwortgeschützt)<br />
   
@@ -124,17 +119,27 @@
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Tagungen">
 	Tagungen, Konferenzen </a> <br />
   </p>
+
+ <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
+      <p class="MsoNormal">  
+      <b> Internationale Kooperationen </b> <br />
+      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
+      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
+      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
+      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
+      </p>
+  
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
-  <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;cmd=force_login&amp;lang=de">
-   <b>AULIS-Anmeldung   </b></a>
-   <br />
+    <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;cmd=force_login&amp;lang=de">
+     <b>AULIS-Anmeldung   </b></a>
+     <br />
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
    <a href="https://webshare.hs-bremen.de/accounts/login/?next=/dashboard/">
    <b>privater Bereich</b></a>
 
   </td>
 
-<!-- .......................... Bilder ..................... -->
+<!-- .......................... Spalte 2 ..................... -->
   <td>
     <a href="mailto:herbert.schmatz@hs-bremen.de">
     <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" width="168" height="233" border="1" />
