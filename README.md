@@ -1,6 +1,5 @@
+<!DOCTYPE html>
 <html lang="de-DE">
-
-
 
 <head>
    <meta charset="utf-8" />
@@ -56,26 +55,26 @@
  <!-- ---- ANSCHRIFT ---- -->
  <table border="0" width="600">
   <td width="360">
-       <p class="MsoNormal">
+   <p class="MsoNormal">
        <b>Anschrift </b>   <br />
            Institut für Nachrichtentechnik<br />
            Hochschule Bremen <br />
            Neustadtswall 30  <br />
            28199 Bremen      <br />
-       </p>
+   </p>
 
-    <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
-      <p class="MsoNormal">
+   <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
+   <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br />
       Anwendungsbezogene Forschung und Entwicklung,<br />
       Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br />
       Weiterbildung und 
-       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" 
+      <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" 
         title="Hochschulehre">
 	Hochschullehre	
-       </a> <br />
-      </p>
- 
+      </a> <br />
+   </p>
+    
 
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
@@ -101,34 +100,37 @@
 	<a href="#Luft-und_Raumfahrt" title="Luft- und Raumfahrt">
 	Luft- und Raumfahrt 2009         </a> <br />
 
-
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
 	 ehemalige Studierende ALUMNI	</a> <br />
-    </p>
-    
+   </p>
+
    <!-- ................... Forschung .................... -->
-  <p class="MsoNormal">
-   <b> Forschung </b> (passwortgeschützt)<br />
-  
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+   <p class="MsoNormal">
+     <b> Forschung </b> (passwortgeschützt)<br />
+       <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Publikationen">
         Forschungsprojekte, Publikationen  </a> <br />
    
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+       <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Tagungen">
 	Tagungen, Konferenzen </a> <br />
-  </p>
+   </p>
 
  <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
-      <p class="MsoNormal">  
+   <p class="MsoNormal">  
       <b> Internationale Kooperationen </b> <br />
+      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
       <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
+      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
       <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
+      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
       <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
+      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
-      </p>
-      
+   </p>
+
+
  <!-- ---- authoriserter Bereich ---- -->
     <p class="MsoNormal">  
      <b> authorisierter Bereich </b> <br />
@@ -145,15 +147,15 @@
   	<br>
 	<br>
 	<br>
-
+	
   </td>
 
 <!-- .......................... Spalte 2 ..................... -->
   <td>
-    <a href="mailto:herbert.schmatz@hs-bremen.de">
+   <a href="mailto:herbert.schmatz@hs-bremen.de">
     <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" width="168" height="233" border="1" />
-    </a>
-     <p class="MsoNormal">
+   </a>
+   <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br />
       Leiter des INT 1992 - 2018 <br />
       <span style="font-size:10.0pt;font-family:Symbol">· </span> 	
@@ -166,12 +168,12 @@
       Signale und Systeme <br />
       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
          herbert.schmatz@hs-bremen.de </a>
-    </p>
+   </p>
 	  
-     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
+   <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" width="248" height="173" border="1" />
-     </a>
-    <p class="MsoNormal">
+   </a>
+   <p class="MsoNormal">
        INT 1996 <br />
        3 Generationen Nachrichtentechnik <br />
       Doz. Dr.-Ing. Schröder (Rechts)<br />
@@ -181,93 +183,188 @@
  </td>
 </table>
 
+  <td colspan="2">
+     <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
+  </td>
 
 
-<td colspan="2">
+<!--   ..................  webcams  ........................ -->
+
+   <tbody><tr><td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="365" valign="top">
+     <p class="MsoNormal">
+       <b>Livecams </b>   <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://herberts.meinekameras.de:10169/#view">
+     HERBERTs.Kameras  </a>  <br>
+   
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://hotel-neptun.panomax.com/web/">
+      Hotel Neptun     </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
+    Hotel Atlantic </a>  <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
+     Strandhotel Hübner</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.youtube.com/embed/SjI4tFZZOcA?si=ALm9JMAUkdViq5UA">
+     Küstenpanorama </a> <br>
+  
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
+     Am Strom</a> <br>
+ 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://nordkapp.panomax.com/">
+     Nordkap</a> <br>
+  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://hrx.panomax.com/ra">
+     MS Roald Amundsen</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://hrx.panomax.com/fn">
+     MS Fridtjof Nansen</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://zugspitze.panomax.com/">
+     Zugspitze</a> <br>
+     <br>
+  </p>
+  </td>
+
+  <!--   ..................... Webcams ...................... -->
+ 
+<td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="265" valign="top">
+     <p class="MsoNormal">
+       <b>Webcams </b>   <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
+     Playa de Santiago</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://youtu.be/aAakCSjqKzo">
+    Playa de Santiago WiFi</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
+     Jardin Tecina</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.foto-webcam.eu/webcam/zugspitze">
+     Foto-webcam</a> <br>
+ 
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+      <a href="https://www.rostock-port.de/livecam">
+      Rostock Port</a> <br>
+     <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.vulkane.net/blogmobil/">
+     Vulkane News</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/catania/vulcano-etna-sud.html">
+     Etna</a> <br>
+
+   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+     <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
+    Stromboli</a> <br>
+  <br>
+  </p>
+ </td>
+
+
+ 
+
+  <td colspan="2">
         <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
-</td>
+  </td>
 
 
-<!-- ................................................. -->
 
-<li><span id="EMV-Labor"></span>
-    <a>  
+  <!-- .........  Video EMV-Labor ....................... -->
+
+  <li><span id="EMV-Labor"></span>
+   <a>  
         <h1>Labor für EMV, ARD 1994 </h1>
 	<video controls="controls" width="600" height="auto">
   	<source src="https://webshare.hs-bremen.de/f/9834702e25d74f7a96be/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
-    </a>
+   </a>
     <br>
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br>
-</li>
+  </li>
 
-<td colspan="2">
+  <td colspan="2">
      <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
-</td>
+  </td>
 
 
-<!-- ................................................. -->
+ <!-- .........  Video 3D-Fernsehtechnik ................. -->
 
-<li><span id="3D-Fernsehtechnik"></span>
-    <a>
+  <li><span id="3D-Fernsehtechnik"></span>
+   <a>
         <h1>3D-Fernsehtechnik, ARD 8.11.2001 </h1>
 	<video controls="controls" width="600" height="auto">
   	<source src="https://webshare.hs-bremen.de/f/9cfecfbc5dee4b9abb87/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
-    </a>
-    <br>
+   </a>
+   <br>
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br>
-</li>
+  </li>
 
-<td colspan="2">
-   <img id="Leiste" src="https://webshare.hs-bremen.de/f/3535bdda7a044ca8852c/?dl=1" width="600" height="10" /> 
-</td>
+  <td colspan="2">
+     <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
+  </td>
 
 
-<!-- ................................................. -->
+ <!-- .........  Video 3D-Videotechnik ..................... -->
 
-<li><span id="3D-Videotechnik"></span>
-    <a>
+  <li><span id="3D-Videotechnik"></span>
+   <a>
         <h1>3D-Videotechnik, SAT1 8.11.2001</h1>
 	<video controls="controls" width="600" height="auto">
   	<source src="https://webshare.hs-bremen.de/f/a33e5ab2fb9c44bca440/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
-    </a>
-    <br>
+   </a>
+   <br>
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br>
-</li>
+  </li>
 
-<td colspan="2">
-   <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
-</td>
+  <td colspan="2">
+     <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
+  </td>
 
 
-<!-- ................................................. -->
+ <!-- .........  Video Luft- und Raumfahrt ................. -->
 
-<li><span id="Luft-und_Raumfahrt"></span>
-    <a>
+  <li><span id="Luft-und_Raumfahrt"></span>
+   <a>
         <h1>Luft- und Raumfahrt 2009</h1>
 	<video controls="controls" width="600" height="auto">
   	<source src="https://webshare.hs-bremen.de/f/d199e81bd47347f2825a/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
-    </a>
-    <br>
+   </a>
+   <br>
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br>
-</li>
+  </li>
 
-<td colspan="2">
+  <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
-</td>
-
-
+  </td>
 
 </body>
 </html>
