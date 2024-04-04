@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="de-DE">
 
 <head>
@@ -6,8 +5,6 @@
    <meta name="description" content="" />
    <meta name="keywords" content="HTML, Metatags" />
    <meta name="H.S." content="gp" />
-
-
 </head>
 
 <body>
