@@ -65,18 +65,7 @@
       Anwendungsbezogene Forschung und Entwicklung,<br />
       Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br />
       Weiterbildung und Hochschullehre <br />
-      </p>
-   
-   <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
-      <p class="MsoNormal">  
-      <b> Internationale Kooperationen </b> <br />
-      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
-      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
-      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
-      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
-      </p>
-
- 
+      </p> 
 
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
@@ -107,6 +96,8 @@
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
 	 ehemalige Studierende ALUMNI	</a> <br />
     </p>
+
+    
    <!-- ................... Forschung .................... -->
  
   <p class="MsoNormal">
@@ -120,6 +111,17 @@
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Tagungen">
 	Tagungen, Konferenzen </a> <br />
   </p>
+
+   <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
+      <p class="MsoNormal">  
+      <b> Internationale Kooperationen </b> <br />
+      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
+      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
+      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
+      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
+      </p>
+
+  
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
   <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;cmd=force_login&amp;lang=de">
    <b>AULIS-Anmeldung   </b></a>
