@@ -249,16 +249,6 @@
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
 </td>
 
-
-
 </body>
 </html>
 
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
