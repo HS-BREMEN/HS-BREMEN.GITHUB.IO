@@ -180,7 +180,7 @@
     <a>  
         <h1>Labor für EMV, ARD 1994 </h1>
 	<video controls="controls" width="600" height="auto">
-  	<source src="https://webshare.hs-bremen.de/f/3535bdda7a044ca8852c/?dl=1" target="_blank" type="video/mp4">
+  	<source src="https://webshare.hs-bremen.de/f/9834702e25d74f7a96be/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
     </a>
@@ -200,7 +200,7 @@
     <a>
         <h1>3D-Fernsehtechnik, ARD 8.11.2001 </h1>
 	<video controls="controls" width="600" height="auto">
-  	<source src="https://webshare.hs-bremen.de/f/3535bdda7a044ca8852c/?dl=1" target="_blank" type="video/mp4">
+  	<source src="https://webshare.hs-bremen.de/f/9cfecfbc5dee4b9abb87/?dl=1" target="_blank" type="video/mp4">
   	Your browser does not support the video tag.
 	</video>
     </a>
