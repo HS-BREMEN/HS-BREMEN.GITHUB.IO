@@ -8,26 +8,26 @@
 </head>
 
 <body>
-<li><span id="Anfang"></span></li>
+<span id="Anfang"></span>
     <meta http-equiv="Refresh" content="1000; URL=https://bremerhaven.panomax.com" />
 
     <table border="0" width="600">
       <tr>
          <td>
 	   <a href="https://www.hs-bremen.de/">
-           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="100%" height="100" />  
+           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="262" height="100" />  
 	   </a>
          </td>
          <td> 
 	   <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="100%" height="100" /> 
+           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="320" height="100" /> 
 	   </a>
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="100%" height="10" /> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="592" height="10" /> 
         </td>
       </tr>
 
