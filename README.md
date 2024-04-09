@@ -174,7 +174,7 @@
 
 <!-- ................................................. -->
 
-<li><span id="EMV-Labor"></span>
+<span id="EMV-Labor"></span>
     <a>  
         <h1>Labor für EMV, ARD 1994 </h1>
 	<video controls="controls" width="600" height="auto">
@@ -185,7 +185,7 @@
     <br />
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br />
-</li>
+
 
 <td colspan="2">
      <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
