@@ -194,7 +194,7 @@
 
 <!-- ................................................. -->
 
-<li><span id="3D-Fernsehtechnik"></span>
+<span id="3D-Fernsehtechnik"></span>
     <a>
         <h1>3D-Fernsehtechnik, ARD 8.11.2001 </h1>
 	<video controls="controls" width="600" height="auto">
@@ -205,7 +205,7 @@
     <br />
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br />
-</li>
+
 
 <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
@@ -214,7 +214,7 @@
 
 <!-- ................................................. -->
 
-<li><span id="3D-Videotechnik"></span>
+<span id="3D-Videotechnik"></span>
     <a>
         <h1>3D-Videotechnik, SAT1 8.11.2001</h1>
 	<video controls="controls" width="600" height="auto">
@@ -225,7 +225,7 @@
     <br />
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br />
-</li>
+
 
 <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
@@ -234,7 +234,7 @@
 
 <!-- ................................................. -->
 
-<li><span id="Luft-und_Raumfahrt"></span>
+<span id="Luft-und_Raumfahrt"></span>
     <a>
         <h1>Luft- und Raumfahrt 2009</h1>
 	<video controls="controls" width="600" height="auto">
@@ -245,7 +245,7 @@
     <br />
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br />
-</li>
+
 
 <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
