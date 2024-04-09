@@ -121,7 +121,9 @@
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
       </p>
 
-  
+   <!-- ---- authoriserter Bereich ---- --> 
+   <p class="MsoNormal">  
+     <b> authorisierter Bereich </b> <br />
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
   <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;cmd=force_login&amp;lang=de">
    <b>AULIS-Anmeldung   </b></a>
@@ -129,6 +131,7 @@
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
    <a href="https://webshare.hs-bremen.de/accounts/login/?next=/dashboard/">
    <b>privater Bereich</b></a>
+  <br/>
 
   </td>
 
