@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<li><span id="Anfang"></span></li>
+<span id="Anfang"></span>
     <meta http-equiv="Refresh" content="1000; URL=https://bremerhaven.panomax.com" />
 
     <table border="0" width="600">
