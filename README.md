@@ -8,27 +8,26 @@
 </head>
 
 <body>
-<span id="Anfang"></span>
-
+<li><span id="Anfang"></span></li>
     <meta http-equiv="Refresh" content="1000; URL=https://bremerhaven.panomax.com" />
 
     <table border="0" width="600">
       <tr>
          <td>
 	   <a href="https://www.hs-bremen.de/">
-           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="100%" height="100" />  
+           <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/bc938c030c6046e5bb2f/?dl=1" width="262" height="100" />  
 	   </a>
          </td>
          <td> 
 	   <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="100%" height="100" /> 
+           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/89943060adfa4ffcb631/?dl=1" width="320" height="100" /> 
 	   </a>
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="100%" height="10" /> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="592" height="10" /> 
         </td>
       </tr>
 
@@ -50,8 +49,8 @@
  </table>
  <!-- ................  Spalte 1  ..................... -->
  <!-- ---- ANSCHRIFT ---- -->
- <table border="0" width="60%">
-  <td width="50%">
+ <table border="0" width="600">
+  <td width="360">
        <p class="MsoNormal">
        <b>Anschrift </b>   <br/>
            Institut für Nachrichtentechnik<br/>
@@ -152,7 +151,7 @@
 <!-- .......................... Bilder ..................... -->
   <td>
     <a href="mailto:herbert.schmatz@hs-bremen.de">
-    <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" width="50%" height="50%" border="1" />
+    <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" width="168" height="233" border="1" />
     </a>
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br />
@@ -191,7 +190,7 @@
 
 <!-- ................................................. -->
 
-<span id="EMV-Labor"></span>
+<li><span id="EMV-Labor"></span>
     <a>  
         <h1>Labor für EMV, ARD 1994 </h1>
 	<video controls="controls" width="600" height="auto">
@@ -199,10 +198,10 @@
   	Your browser does not support the video tag.
 	</video>
     </a>
-    <br>
-   <a href="#Anfang"> Zurück </a>
-   <br>
-
+    <br />
+   <a href="#Anfang"> <h1>Zurück</h1> </a>
+   <br />
+</li>
 
 <td colspan="2">
      <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
@@ -211,7 +210,7 @@
 
 <!-- ................................................. -->
 
-<span id="3D-Fernsehtechnik"></span>
+<li><span id="3D-Fernsehtechnik"></span>
     <a>
         <h1>3D-Fernsehtechnik, ARD 8.11.2001 </h1>
 	<video controls="controls" width="600" height="auto">
@@ -219,10 +218,10 @@
   	Your browser does not support the video tag.
 	</video>
     </a>
-    <br>
-   <a href="#Anfang"> Zurück </a>
-   <br>
-
+    <br />
+   <a href="#Anfang"> <h1>Zurück</h1> </a>
+   <br />
+</li>
 
 <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
@@ -231,7 +230,7 @@
 
 <!-- ................................................. -->
 
-<span id="3D-Videotechnik"></span>
+<li><span id="3D-Videotechnik"></span>
     <a>
         <h1>3D-Videotechnik, SAT1 8.11.2001</h1>
 	<video controls="controls" width="600" height="auto">
@@ -239,10 +238,10 @@
   	Your browser does not support the video tag.
 	</video>
     </a>
-    <br>
-   <a href="#Anfang"> Zurück </a>
-   <br>
-
+    <br />
+   <a href="#Anfang"> <h1>Zurück</h1> </a>
+   <br />
+</li>
 
 <td colspan="2">
    <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
@@ -251,7 +250,7 @@
 
 <!-- ................................................. -->
 
-<span id="Luft-und_Raumfahrt"></span>
+<li><span id="Luft-und_Raumfahrt"></span>
     <a>
         <h1>Luft- und Raumfahrt 2009</h1>
 	<video controls="controls" width="600" height="auto">
@@ -259,9 +258,9 @@
   	Your browser does not support the video tag.
 	</video>
     </a>
-    <br>
-   <a href="#Anfang"> Zurück </a>
-   <br>
+    <br />
+   <a href="#Anfang"> <h1>Zurück</h1> </a>
+   <br />
 </li>
 
 
