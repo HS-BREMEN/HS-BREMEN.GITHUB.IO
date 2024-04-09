@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="de-DE">
 
 <head>
@@ -47,88 +48,81 @@
        </td>
 
  </table>
- <!-- ................  Spalte 1  ..................... -->
+
  <!-- ---- ANSCHRIFT ---- -->
  <table border="0" width="600">
   <td width="360">
        <p class="MsoNormal">
-       <b>Anschrift </b>   <br/>
-           Institut für Nachrichtentechnik<br/>
-           Hochschule Bremen <br/>
-           Neustadtswall 30  <br/>
-           28199 Bremen      <br/>
+       <b>Anschrift </b>   <br />
+           Institut für Nachrichtentechnik<br />
+           Hochschule Bremen <br />
+           Neustadtswall 30  <br />
+           28199 Bremen      <br />
        </p>
 
     <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
       <p class="MsoNormal">
-      <b>Arbeitsschwerpunkte </b> <br/>
-      Anwendungsbezogene Forschung und Entwicklung,<br/>
-      Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br/>
-      Weiterbildung und 
-      <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/
-	Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" 
-        title="Hochschulehre">
-	Hochschullehre	
-      </a> <br/>
+      <b>Arbeitsschwerpunkte </b> <br />
+      Anwendungsbezogene Forschung und Entwicklung,<br />
+      Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br />
+      Weiterbildung und Hochschullehre <br />
       </p> 
 
    <!-- .................. weitere Aktivitäten ........... -->
    <p class="MsoNormal">     
-     <b>weitere Aktivitäten</b>    <br/>
+     <b>weitere Aktivitäten</b>    <br />
 
      <span style="font-size:10.0pt;font-family:Symbol">·       </span> 
         <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
-        Institut für Nachrichtentechnik (intern)  </a> <br/>
+        Institut für Nachrichtentechnik (intern)  </a> <br />
     
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="#EMV-Labor" title="Labor für EMV">
-        Labor für EMV, ARD 1994  </a> <br/>
+        Labor für EMV, ARD 1994  </a> <br />
    
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="#3D-Fernsehtechnik" title="3D-Fernsehtechnik">
-	3D-Fernsehtechnik, ARD 8.11.2001 </a> <br/>
+	3D-Fernsehtechnik, ARD 8.11.2001 </a> <br />
 	
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="#3D-Videotechnik" title="3D-Videotechnik">
-	3D-Videotechnik, SAT1 8.11.2001  </a><br/>
+	3D-Videotechnik, SAT1 8.11.2001  </a><br />
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="#Luft-und_Raumfahrt" title="Luft- und Raumfahrt">
-	Luft- und Raumfahrt 2009         </a> <br/>
+	Luft- und Raumfahrt 2009         </a> <br />
 
 
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
-	 ehemalige Studierende ALUMNI	</a> <br/>
+	 ehemalige Studierende ALUMNI	</a> <br />
     </p>
 
     
    <!-- ................... Forschung .................... -->
  
   <p class="MsoNormal">
-   <b> Forschung </b> (passwortgeschützt)<br/>
+   <b> Forschung </b> (passwortgeschützt)<br />
   
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Publikationen">
-        Forschungsprojekte, Publikationen  </a> <br/>
+        Forschungsprojekte, Publikationen  </a> <br />
    
      <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
 	<a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen" title="Tagungen">
-	Tagungen, Konferenzen </a> <br/>
+	Tagungen, Konferenzen </a> <br />
   </p>
 
    <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
       <p class="MsoNormal">  
-      <b> Internationale Kooperationen </b> <br/>
-      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br/>
-      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br/>
-      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br/>
-      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br/>
+      <b> Internationale Kooperationen </b> <br />
+      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br />
+      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br />
+      <a href="https://kvk.uni-obuda.hu/">TH "Kando Kalman" Budapest</a>, (HU) <br />
+      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
       </p>
 
-  <!-- ---- authoriserter Bereich ---- --> 
-   <p class="MsoNormal">  
-     <b> authorisierter Bereich </b> <br />
+  
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
   <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;cmd=force_login&amp;lang=de">
    <b>AULIS-Anmeldung   </b></a>
@@ -136,15 +130,6 @@
      <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
    <a href="https://webshare.hs-bremen.de/accounts/login/?next=/dashboard/">
    <b>privater Bereich</b></a>
-  <br/>
-
-  <!--   ..................  webcams  ........................ -->
-   <span style="font-size:10.0pt;font-family:Symbol"> <b>·</b>	</span> 
-   <a href="https://hs-cam.github.io">
-   <b>Livecams</b></a>
-  <br/>
-<br/>
-
 
   </td>
 
@@ -263,6 +248,9 @@
    <br />
 </li>
 
+<td colspan="2">
+   <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
+</td>
 
 </body>
 </html>
