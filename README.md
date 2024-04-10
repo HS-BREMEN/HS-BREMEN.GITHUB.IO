@@ -246,7 +246,7 @@
     <br>
    <a href="#Anfang"> <h1>Zurück</h1> </a>
    <br>
-  <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="600" height="10" /> 
+
 
 </table>
 
