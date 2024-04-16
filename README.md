@@ -242,11 +242,11 @@ a:hover .zoom {width:822px; height: 545px;}
 </table>
 
 
-<table>
+
 <!-- ................ Videos ................................. -->
 
 <!-- .................EMV-Labor............................... -->
-    <tr>
+
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400"/> <br>
          <span id="EMV-Labor"> <h2 strong>Labor für EMV, ARD 1994 </h2 strong> </span>
    
@@ -257,9 +257,9 @@ a:hover .zoom {width:822px; height: 545px;}
     </a>
    
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-    </tr>
+
 <!-- .................3D-Fernsehtechnik.............................. -->
-    <tr>
+ 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
          <span id="3D-Fernsehtechnik"> <h2 strong>3D-Fernsehtechnik, ARD 8.11.2001 </h2 strong> </span>
    
@@ -269,10 +269,10 @@ a:hover .zoom {width:822px; height: 545px;}
   	Your browser does not support the video tag.	</video>
     </a> 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-    </tr>
+
 
 <!-- ..................3D-Videotechnik............................... -->
-    <tr>
+
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
          <span id="3D-Videotechnik"> <h2 strong>3D-Videotechnik, SAT1 8.11.2001 </h2 strong> </span>
    
@@ -282,10 +282,10 @@ a:hover .zoom {width:822px; height: 545px;}
   	Your browser does not support the video tag.	</video>
     </a> 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-    </tr>
+
 
 <!-- ...................Luft- und Raumfahrt........................... -->
-   <tr>
+  
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
          <span id="Luft-und_Raumfahrt"> <h2 strong>Luft-und_Raumfahrt 2009 </h2 strong> </span>
    
@@ -295,15 +295,15 @@ a:hover .zoom {width:822px; height: 545px;}
   	Your browser does not support the video tag.	</video>
     </a> 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-    </tr> 
+
     
-    <tr>
+  
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
    <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
 
-    </tr>   
+   
 
-</table>
+
 
 
 
