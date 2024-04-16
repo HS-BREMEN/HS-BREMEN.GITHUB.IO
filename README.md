@@ -248,9 +248,9 @@ a:hover .zoom {width:822px; height: 545px;}
 <!-- .................EMV-Labor............................... -->
 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400"/> <br>
-         <span id="EMV-Labor"> <h2 strong>Labor für EMV, ARD 1994 </h2 strong> </span>
+         <span id="EMV-Labor"> <h2>Labor für EMV, ARD 1994 </h2> </span>
    
-    <a href="#Anfang"> <strong>Zurück</strong></a>   <br> 
+    <a href="#Anfang">Zurück</a>   <br> 
     <a> <video controls="controls" >
   	<source src="https://webshare.hs-bremen.de/f/9834702e25d74f7a96be/?dl=1" target="_blank" type="video/mp4" />
   	Your browser does not support the video tag.	</video>
@@ -261,9 +261,9 @@ a:hover .zoom {width:822px; height: 545px;}
 <!-- .................3D-Fernsehtechnik.............................. -->
  
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-         <span id="3D-Fernsehtechnik"> <h2 strong>3D-Fernsehtechnik, ARD 8.11.2001 </h2 strong> </span>
+         <span id="3D-Fernsehtechnik"> <h2>3D-Fernsehtechnik, ARD 8.11.2001 </h2> </span>
    
-    <a href="#Anfang"> <strong>Zurück</strong></a>   <br>
+    <a href="#Anfang">Zurück</a>   <br>
     <a> <video controls="controls" >
   	<source src="https://webshare.hs-bremen.de/f/9cfecfbc5dee4b9abb87/?dl=1" target="_blank" type="video/mp4" />
   	Your browser does not support the video tag.	</video>
@@ -274,9 +274,9 @@ a:hover .zoom {width:822px; height: 545px;}
 <!-- ..................3D-Videotechnik............................... -->
 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-         <span id="3D-Videotechnik"> <h2 strong>3D-Videotechnik, SAT1 8.11.2001 </h2 strong> </span>
+         <span id="3D-Videotechnik"> <h2>3D-Videotechnik, SAT1 8.11.2001 </h2> </span>
    
-    <a href="#Anfang"> <strong>Zurück</strong></a>   <br>
+    <a href="#Anfang">Zurück</a>   <br>
     <a> <video controls="controls" >
   	<source src="https://webshare.hs-bremen.de/f/a33e5ab2fb9c44bca440/?dl=1" target="_blank" type="video/mp4" />
   	Your browser does not support the video tag.	</video>
@@ -287,9 +287,9 @@ a:hover .zoom {width:822px; height: 545px;}
 <!-- ...................Luft- und Raumfahrt........................... -->
   
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="0" height="400" /> <br>
-         <span id="Luft-und_Raumfahrt"> <h2 strong>Luft-und_Raumfahrt 2009 </h2 strong> </span>
+         <span id="Luft-und_Raumfahrt"> <h2>Luft-und_Raumfahrt 2009 </h2> </span>
    
-    <a href="#Anfang"> <strong>Zurück</strong></a>   <br>
+    <a href="#Anfang">Zurück</a>   <br>
     <a> <video controls="controls" >
   	<source src="https://webshare.hs-bremen.de/f/d199e81bd47347f2825a/?dl=1" target="_blank" type="video/mp4" />
   	Your browser does not support the video tag.	</video>
@@ -314,8 +314,8 @@ a:hover .zoom {width:822px; height: 545px;}
  <tr>   
     <td colspan="3" valign="top"> 
     <img src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" width="100%" height="10"> 
-    <span id="livecams"> <h2 strong>Livecams </h2 strong> </span>
-    <a href="#Anfang"> <strong>Zurück</strong></a>
+    <span id="livecams"> <h2>Livecams </h2> </span>
+    <a href="#Anfang">Zurück</a>
     </td>  
  </tr>  
 
