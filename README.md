@@ -160,7 +160,7 @@ a:hover .zoom {width:822px; height: 545px;}
     <!--   ..................  webcams  ........................ -->
       <strong>-</strong>
       <a href="#livecams" title="Livecams">Livecams</a><br>
- 
+     </p>
       <br> <br>
      </td>
 
@@ -220,7 +220,7 @@ a:hover .zoom {width:822px; height: 545px;}
             EMC (Université d'Artois Béthune) </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847697"> 
             Introduction to Modern Telecommunication </a><br>
-      <p> 
+      </p> 
 
       <p class="MsoNormal">
           <b>Laborversuche </b> <br>
@@ -228,13 +228,13 @@ a:hover .zoom {width:822px; height: 545px;}
             LIT </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847769"> 
             LITS </a><br>
-      <p> 
+      </p> 
 
       <p class="MsoNormal">
           <b>Tutorials </b> <br>
       
       <a href="#"><img class="zoom" src="https://webshare.hs-bremen.de/f/10601c41640440cdb76e/?dl=1" width="161" height="24" alt="Tutorials" border="0"></a>
-      <p> 
+      </p> 
 
    </td>
   </tr>
