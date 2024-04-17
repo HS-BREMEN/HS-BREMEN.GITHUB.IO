@@ -159,7 +159,7 @@ a:hover .zoom {width:822px; height: 545px;}
 
     <!--   ..................  webcams  ........................ -->
       <strong>-</strong>
-      <a href="#livecams" title="Livecams">Livecams</a><br>
+      <a href="#livecams" title="Livecams"><strong>Livecams<strong></a><br>
      </p>
       <br> <br>
      </td>
@@ -173,21 +173,21 @@ a:hover .zoom {width:822px; height: 545px;}
       <br>
       <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" 
-         width="50%" height="50%"   border="0" >
+         width="84" height="115"   border="0" >
      </a>
      <p class="MsoNormal">
         Prof. Dr.-Ing. Herbert Schmatz   <br>
-        Leiter des Institut für Nachrichtentechnik 1992 - 2018 <br>
+        Leiter des Institut für Nachrichtentechnik <br> 1992 - 2018 <br>
         <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
          herbert.schmatz@hs-bremen.de </a>
       </p>  
 
       <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
         <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" 
-        width="100%" height="100%" border="0" />
+        width="248" height="173" border="0" />
        </a>
       <p class="MsoNormal">
-        Drei Generationen Nachrichtentechnik (INT 1996) <br>
+        Drei Generationen Nachrichtentechnik <br> (INT 1996) <br>
         Doz. Dr.-Ing. Schröder (Rechts)<br>
         Prof. Dr.-Ing. Rommel (Mitte) <br>
         Prof. Dr.-Ing. Schmatz (Links)
