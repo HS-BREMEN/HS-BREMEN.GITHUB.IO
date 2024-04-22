@@ -162,7 +162,6 @@ a:hover .zoom {width:822px; height: 545px;}
       <strong>-</strong>
       <a href="#livecams" title="Livecams"><strong>Livecams</strong></a><br>
      </p>
-      <br> <br>
      </td>
 
 <!-- ........................ Spalte 2 ..................... -->
@@ -174,7 +173,7 @@ a:hover .zoom {width:822px; height: 545px;}
       <br>
       <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" 
-         width="84" height="115"   border="0" >
+         width="168" height="230"   border="0" >
      </a>
      <p class="MsoNormal">
         Prof. Dr.-Ing. Herbert Schmatz   <br>
