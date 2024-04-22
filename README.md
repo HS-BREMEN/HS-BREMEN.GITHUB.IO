@@ -91,7 +91,8 @@ a:hover .zoom {width:822px; height: 545px;}
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br>
       Anwendungsbezogene Forschung und Entwicklung, <br>
-      Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft, <br>
+      Transfer wissenschaftlicher Erkenntnisse <br> 
+      in die Wirtschaft, <br>
       Weiterbildung und 
       <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" title="Hochschulehre">
 	Hochschullehre	 </a> <br>
