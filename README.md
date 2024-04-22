@@ -340,8 +340,9 @@ a:hover .zoom {width:822px; height: 545px;}
     <td width="400" valign="top">
       <a>Stromboli Live</a> <br>
       <a href="https://www.ilvulcanoapiedi.it/webcam/?lang=de">
-      <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR325_XZSdgfgMs0FA1W9QX_l9UPtf_IShuGEslFmsuGzi7clwKzTHrSGrgnuxUgjk28Invugvnc5VL34FtokJV7JYJbNB_iWrxMHPGzA" 
-       width=200 heigth="50">  
+        <iframe frameborder="0" height="1200" id="live" scrolling="no" 
+           src="https://vedetta.org/vedetta/stromboli/index.php" allowfullscreen="true" width="100%">
+         </iframe>	  
       </a>
     </td>
   </tr>    
