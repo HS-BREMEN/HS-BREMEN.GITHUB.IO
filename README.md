@@ -331,7 +331,10 @@ a:hover .zoom {width:822px; height: 545px;}
 
     <td width="400" valign="top">
         <a> Ätna </a> <br>
-       <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/catania/vulcano-etna-sud.html">
+	
+	<a href="https://guidevulcanologicheetna.it/de/aetna-live-webcam/">
+ 
+ <!--   <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/catania/vulcano-etna-sud.html"> -->
        <img src="https://k2p5b9b7.rocketcdn.me/wp-content/uploads/2022/12/Aetna-Eruption.jpg.webp" 
         width=200 heigth="50">  
        </a>
