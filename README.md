@@ -201,9 +201,9 @@ a:hover .zoom {width:822px; height: 545px;}
       <p class="MsoNormal">
           <b>Vorlesungsskripte 1992-2018</b><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847770"> 
-            Grundlagen der Elektrotechnik 1 </a><br>
+            Grundlagen Elektrotechnik 1 </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847769"> 
-            Grundlagen der Elektrotechnik 2 </a><br>
+            Grundlagen Elektrotechnik 2 </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847775"> 
             Signale und Systeme </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847715"> 
@@ -219,7 +219,7 @@ a:hover .zoom {width:822px; height: 545px;}
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847717"> 
             EMC (Université d'Artois Béthune) </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847697"> 
-            Introduction to Modern Telecommunication </a><br>
+            Modern Telecommunication (Malaysia) </a><br>
       </p> 
 
       <p class="MsoNormal">
