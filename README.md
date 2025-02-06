@@ -205,7 +205,7 @@ a:hover .zoom {width:822px; height: 545px;}
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847769"> 
             Grundlagen Elektrotechnik 2 </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847775"> 
-            Signale und Systeme </a><br>
+            Systemtheorie </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847715"> 
             Elektomagnetische Wellen </a><br>
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=847720"> 
