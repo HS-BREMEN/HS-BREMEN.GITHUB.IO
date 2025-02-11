@@ -16,6 +16,7 @@ a:hover .zoom {width:822px; height: 545px;}
 --> </style> 
 
    <span id="Anfang"></span>
+    <meta http-equiv="refresh" content="0;url=https://hs-bremen.github.io/#Anfang">
     <meta http-equiv="Refresh" content="1000; URL=https://bremerhaven.panomax.com" />
 
 
