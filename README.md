@@ -178,10 +178,9 @@ a:hover .zoom {width:822px; height: 545px;}
      </a>
      <p class="MsoNormal">
         Prof. Dr.-Ing. Herbert Schmatz   <br>
-        Leiter des Institut für Nachrichtentechnik <br> 1992 - 2018 <br>
-        <a href="mailto:*@hs-bremen.de" title="E-Mail senden">
-        </a>
-      </p>  
+        Leiter des Institut für Nachrichtentechnik <br> 
+       
+     </p>  
 
       <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
         <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/3655bee3f6234768a510/?dl=1" 
