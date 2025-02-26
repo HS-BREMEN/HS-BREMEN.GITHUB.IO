@@ -179,7 +179,6 @@ a:hover .zoom {width:822px; height: 545px;}
      <p class="MsoNormal">
         Prof. Dr.-Ing. Herbert Schmatz   <br>
         Leiter des Institut für Nachrichtentechnik <br> 
-       
      </p>  
 
       <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
