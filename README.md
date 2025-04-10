@@ -172,7 +172,7 @@ a:hover .zoom {width:822px; height: 545px;}
       <img id="Leiste" src="https://webshare.hs-bremen.de/f/f2365686c08545b6a0dd/?dl=1" 
                width="100%" height="5"> 
       <br>
-      <a href="mailto:*herbert.schmatz@hs-bremen.de">
+      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/6113dea7c0af4b69a0cc/?dl=1" 
          width="168" height="230"   border="0" >
      </a>
