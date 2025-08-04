@@ -12,7 +12,7 @@
     </th>
     <th>
      &nbsp Feld2
-    </h>
+    </th>
    <tr>
 
    <tr>  
