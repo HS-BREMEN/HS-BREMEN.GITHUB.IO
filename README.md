@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <style>
 table, th, td {
