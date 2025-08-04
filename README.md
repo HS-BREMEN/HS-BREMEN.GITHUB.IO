@@ -1,35 +1,33 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>Prof. Dr.-Ing. Herbert Schmatz - INT</title>
-<meta name="author" content="anna">
-</head>
-
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 <body>
-<table border="1" cellspacing="0" bgcolor=#CCFFFF>
-   <tr>  
-    <td>
-       <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1"
-               width="50%" height="50%">
-     <br> &nbsp Feld1
-    </td>
-    <td>
-     <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
-                width="50%" height="50%"> 
-     <br> &nbsp Feld2
-    </td>
-   <tr>
 
-   <tr>  
-    <td>
-     <img id="Baustelle" src="https://webshare.hs-bremen.de/f/f9dfe89486b149adb579/?dl=1"> 
-     <br> &nbsp Feld3
-    </td>
-    <td>
-     <img id="Baustelle" src="https://webshare.hs-bremen.de/f/f9dfe89486b149adb579/?dl=1"> 
-     <br> &nbsp Feld4
-    </td>
-   <tr>
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table>
+
+<p>To understand the example better, we have added borders to the table.</p>
 
 </body>
 </html>
