@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<table border="1" cellspacing="0" bgcolor=#CCFFFF>
+<table border="1" bgcolor=#CCFFFF>
    <tr>  
     <td>
        <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1"
