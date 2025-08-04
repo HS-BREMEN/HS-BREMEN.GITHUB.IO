@@ -9,7 +9,7 @@
 
 <body>
 
-    <table border="1" cellspacing="0" bgcolor=#CCFFFF >
+    <table  >
        <!-- --------------Kopf----------------- -->
        <tr>
            <td colspan="3">
