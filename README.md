@@ -7,21 +7,21 @@
 <body>
 <table border="1" cellspacing="0" bgcolor=#CCFFFF>
    <tr>  
-    <td>
+    <th>
       &nbsp Feld1
-    </td>
-    <td>
+    </th>
+    <th>
      &nbsp Feld2
-    </td>
+    </h>
    <tr>
 
    <tr>  
-    <td>
+    <th>
      &nbsp Feld3
-    </td>
-    <td>
+    </th>
+    <th>
       &nbsp Feld4
-    </td>
+    </th>
    <tr>
 </table>
 
