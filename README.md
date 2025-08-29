@@ -200,16 +200,15 @@
 
       <span style="font-size:10.0pt;font-family:Symbol">·        </span>
 
-     <a href="">
+     <a href="#GEL1">
         GEL1 - Grundlagen der Elektrotechnik 1 </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
+        <a href="#GEL2">
         GEL2 - Grundlagen der Elektrotechnik 2 </a> <br>
 
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
+        <a href="#SYS">
         SuS - Signale und Systeme </a>  <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
@@ -217,20 +216,22 @@
         GIT - Grundlagen der Informationstechnik </a>  <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
+        <a href="#EMW">
         EMW – Elektromagnetische Wellen  </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
+        <a href="#DSV">
         DSV - Digitale Signalverarbeitung  </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
-        PRJ 1 - Projekt in der Informationstechnik  </a> <br>
+        <a href="#ITS">
+        ITS - Informationstechnische Systeme  </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="">
-        ITS - Informationstechnische Systeme  </a> <br>
+        <a href="#PJIT">
+        PJIT - Projekt Informationstechnik  </a> <br>
+
+
 
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
@@ -635,6 +636,108 @@
     width="0" height="200" /> <br>
 
 
+<!-- .................................Lehrveranstaltungen............................ -->
+<!-- .....................GEL1........................ -->
+<table border="1" width="730">
+<tr>
+<td id="GEL1">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Grundlagen der Elektrotechnik 1</h2> </span>
+    <img src="" >
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- .....................GEL2........................ -->
+<table border="1" width="730">
+<tr>
+<td id="GEL2">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Grundlagen der Elektrotechnik 2</h2> </span>
+    <img src="" >
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+<!-- ..........................EMW....................... -->
+<table border="1" width="730">
+<tr>
+<td id="EMW">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Elektromagnetische Felder und Wellen</h2> </span>
+    <img src="" >
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+
+<!-- .....................SYS........................ -->
+<table border="1" width="730">
+<tr>
+<td id="SYS">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Signale und Systeme</h2> </span>
+    <img src="" >
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- ..........................DSV................... -->
+<table border="1" width="730">
+<tr>
+<td id="DSV">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Digitale Signalverarbeitung</h2> </span>
+    <img src="" >
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
 <!-- .....................GIT........................ -->
 <table border="1" width="730">
 <tr>
@@ -651,10 +754,50 @@
 
    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
     width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
 
 
 
+<!-- .....................ITS........................ -->
+<table border="1" width="730">
+<tr>
+<td id="ITS">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Informationstrechnische Systeme</h2> </span>
+    <img src="" >
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+    
+</td>
+</tr>
+</table>
 
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- ..........................PJIT....................... -->
+<table border="1" width="730">
+<tr>
+<td id="PJIT">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Projekt Informatinstechnik</h2> </span>
+    <img src="" >
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
 
 
 <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
