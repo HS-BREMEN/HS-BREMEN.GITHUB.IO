@@ -181,9 +181,9 @@
     <p class="MsoNormal">
       <b>Drei Generationen Nachrichtentechnik</b> <br>
       90. Geburtstag von <br>
-      Doz. Dr.-Ing. Schröder, <br>
-      Prof. Dr.-Ing. Rommel (Mitte), <br>
-      Prof. Dr.-Ing. Schmatz (Links),<br>
+      Doz. Dr.-Ing. Schröder. <br>
+      Prof. Dr.-Ing. Rommel, (Mitte), <br>
+      Prof. Dr.-Ing. Schmatz. (Links),<br>
       INT 1996
     </p>
  </td>
