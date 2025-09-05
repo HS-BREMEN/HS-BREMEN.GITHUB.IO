@@ -645,7 +645,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Grundlagen der Elektrotechnik 1</h2> </span>
-    <img src="" >
+    <img src="https://webshare.hs-bremen.de/f/d864f294e7604600918a/?dl=1" width="730">
     
 </td>
 </tr>
@@ -664,7 +664,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Grundlagen der Elektrotechnik 2</h2> </span>
-    <img src="" >
+    <img src="https://webshare.hs-bremen.de/f/fb593ece14a34746ad6b/?dl=1" width="730" >
     
 </td>
 </tr>
@@ -684,7 +684,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Elektromagnetische Felder und Wellen</h2> </span>
-    <img src="" >
+    <img src="https://webshare.hs-bremen.de/f/21f8a8a3056142e1a45d/?dl=1" width="730">
     
 </td>
 </tr>
@@ -705,7 +705,11 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Signale und Systeme</h2> </span>
-    <img src="" >
+    <img src="https://webshare.hs-bremen.de/f/29285c1bdba945df9f85/?dl=1" width="730">
+           <img id="Systeme2.Ordnung1.png" src="https://webshare.hs-bremen.de/f/8efdd3d1bd1744618cca/?dl=1" width="730">
+           <img id="Systeme2.Ordnung2.png" src="https://webshare.hs-bremen.de/f/8e20b1c0bd154bbca292/?dl=1" width="730">
+           <img id="Systeme2.Ordnung3.png" src="https://webshare.hs-bremen.de/f/c91c788627fd49059345/?dl=1" width="730">
+           <img id="Systeme2.Ordnung4.png" src="https://webshare.hs-bremen.de/f/958ea38a4aaa41d88d65/?dl=1" width="730">
     
 </td>
 </tr>
@@ -724,10 +728,8 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Digitale Signalverarbeitung</h2> </span>
-    <img src="" >
-  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
-    width="0" height="200" /> <br>
-    
+    <img src="https://webshare.hs-bremen.de/f/6e6c7319a1b14b4eb83f/?dl=1" width="730" >
+  
 </td>
 </tr>
 </table>
@@ -746,7 +748,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Grundlagen der Informationstechnik</h2> </span>
-    <img src="https://webshare.hs-bremen.de/f/ae48d46797174f098e33/?dl=1" >
+    <img src="https://webshare.hs-bremen.de/f/ae48d46797174f098e33/?dl=1" width="730">
     
 </td>
 </tr>
@@ -767,9 +769,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Informationstrechnische Systeme</h2> </span>
-    <img src="" >
-  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
-    width="0" height="200" /> <br>
+    <img src="https://webshare.hs-bremen.de/f/a744fcd0d8a74753869d/?dl=1" width="730">
     
 </td>
 </tr>
@@ -788,6 +788,10 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Projekt Informatinstechnik</h2> </span>
+
+      <form  action="https://aulis.hs-bremen.de" >
+      <input type="submit" value="--->AULIS" ></form>
+<!--   https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&ref_id=847811 -->
     <img src="" >
     
 </td>
