@@ -252,7 +252,7 @@
 
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.hs-bremen.de/studieren/studiengang/elektrotechnik-b-eng/">
-        Elektrotechnink B.Eng. </a> <br>
+        Elektrotechnik B.Eng. </a> <br>
 
 <!--
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
