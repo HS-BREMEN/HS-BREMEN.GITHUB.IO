@@ -664,7 +664,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Grundlagen der Elektrotechnik 2</h2> </span>
-    <img src="https://webshare.hs-bremen.de/f/fb593ece14a34746ad6b/?dl=1" width="730" >
+    <img src="https://webshare.hs-bremen.de/f/bf55be039e2942e189ab/?dl=1" width="730" >
        <img id="GEL2_Wechelstromwiderstände_und_Wechselstromleitwerte_S.1.png" 
         src="https://webshare.hs-bremen.de/f/8af568c4ce5f4105bab7/?dl=1" width="730">
        <img id="GEL2_Wechelstromwiderstände_und_Wechselstromleitwerte_S.1.png" 
