@@ -774,7 +774,7 @@
     <form  action="#Home" ><input type="submit" value="Home" ></form>
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Informationstrechnische Systeme</h2> </span>
-    <img src="https://webshare.hs-bremen.de/f/a744fcd0d8a74753869d/?dl=1" width="730">
+    <img src="https://webshare.hs-bremen.de/f/9bfaf08a6d7f4e02bf8b/?dl=1" width="730">
     
 </td>
 </tr>
