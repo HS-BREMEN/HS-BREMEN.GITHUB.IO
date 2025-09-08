@@ -783,7 +783,7 @@
   
     <form  action="#Home" ><input type="submit" value="Home" ></form>
     <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
-    <span> <h2>Projekt Informatinstechnik</h2> </span>
+    <span> <h2>Projekt Informationstechnik</h2> </span>
 
       <form  action="https://aulis.hs-bremen.de" >
       <input type="submit" value="--->AULIS" ></form>
