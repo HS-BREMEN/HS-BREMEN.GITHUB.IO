@@ -711,11 +711,7 @@
      <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
     <span> <h2>Signale und Systeme</h2> </span>
     <img src="https://webshare.hs-bremen.de/f/29285c1bdba945df9f85/?dl=1" width="730">
-           <img id="Systeme2.Ordnung1.png" src="https://webshare.hs-bremen.de/f/8efdd3d1bd1744618cca/?dl=1" width="730">
-           <img id="Systeme2.Ordnung2.png" src="https://webshare.hs-bremen.de/f/8e20b1c0bd154bbca292/?dl=1" width="730">
-           <img id="Systeme2.Ordnung3.png" src="https://webshare.hs-bremen.de/f/c91c788627fd49059345/?dl=1" width="730">
-           <img id="Systeme2.Ordnung4.png" src="https://webshare.hs-bremen.de/f/958ea38a4aaa41d88d65/?dl=1" width="730">
-    
+ 
 </td>
 </tr>
 </table>
@@ -796,8 +792,7 @@
 
       <form  action="https://aulis.hs-bremen.de" >
       <input type="submit" value="--->AULIS" ></form>
-<!--   https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&ref_id=847811 -->
-    <img src="" >
+
     
 </td>
 </tr>
