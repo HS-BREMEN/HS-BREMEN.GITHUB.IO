@@ -3,7 +3,6 @@
    <meta charset="utf-8">
    <meta name="description" content="Institut für Nachrichtentechnik Bremen" />
    <meta name="keywords" content="HTML, Metatags" />
-   <meta http-equiv="refresh" content="30">
    <meta name="H.S." content="gp" />
    <meta name="autor" content="Prof. Dr.-Ing. Herbert Schmatz">
    <title> INT - HS-BREMEN </title>
