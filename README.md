@@ -5,7 +5,7 @@
    <meta name="keywords" content="HTML, Metatags" />
    <meta name="H.S." content="gp" />
    <meta name="autor" content="Prof. Dr.-Ing. Herbert Schmatz">
-   <title> INT - HS-BREMEN </title>
+
 </head>
 
 <body>
