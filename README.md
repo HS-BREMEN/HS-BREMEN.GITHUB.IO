@@ -235,6 +235,7 @@
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Literatur (AULIS)  </a> <br>
+     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://webshare.hs-bremen.de/seafhttp/f/fe65959b28724369a6ec/?op=view">
         F11  </a> <br>
   </p>
