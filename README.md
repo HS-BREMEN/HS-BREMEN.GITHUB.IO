@@ -130,6 +130,8 @@
      <a href="mailto:herbert.schmatz@hs-bremen.de">
        <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
           width="144" height="200" border="0" />
+       <img id="drehen" src="https://webshare.hs-bremen.de/seafhttp/f/60016e6452ec4b1ab6e4/?op=view"
+          width="40" height="40" border="0">
        </a>
      <p class="MsoNormal">
       <b>Prof. Dr.-Ing. Herbert Schmatz </b>  <br>
