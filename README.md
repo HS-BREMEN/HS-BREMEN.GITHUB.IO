@@ -146,7 +146,7 @@
       <span style="font-size:10.0pt;font-family:Symbol">· </span>
       Elektromagnetische Verträglichkeit <br> <br>
     </p>
-     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
+    <a href="https://suche.suub.uni-bremen.de/peid=B12747057&LAN=DE&CID=8843970&index=L&Hitnr=10&dtyp=D&rtyp=F&Exemplar=1">
        <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
           width="248" height="173" border="0">
      </a>
