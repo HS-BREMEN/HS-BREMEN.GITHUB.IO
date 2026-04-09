@@ -238,7 +238,7 @@
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Literatur (AULIS)  </a> <br>
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://hs-bremen.github.io">
+        <a href="https://webshare.hs-bremen.de/seafhttp/f/d85ec6d4abaf493a91b3/?op=view">
         F11  </a> <br>
   </p>
  </td>
