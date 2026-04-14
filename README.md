@@ -54,8 +54,9 @@
    <p class="MsoNormal">
        <b>Ansprechpartner</b>    <br>
          Institutsleiter: Prof. Dr.-Ing. Herbert Schmatz, i.R. <br>
-       <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
+    <!--      <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
          herbert.schmatz@hs-bremen.de </a> <br>
+      -->
    </p>
      <!-- ARBEITSSCHWERPUNKTE -->
       <p class="MsoNormal">
@@ -127,7 +128,7 @@
   </td>
 <!-- .......................... Bilder ..................... -->
   <td>
-     <a href="mailto:herbert.schmatz@hs-bremen.de">
+     <a href="https://www.hs-bremen.de/person/schmatz/">
        <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
           width="144" height="200" border="0" />
        <img id="drehen" src="https://webshare.hs-bremen.de/seafhttp/f/60016e6452ec4b1ab6e4/?op=view"
