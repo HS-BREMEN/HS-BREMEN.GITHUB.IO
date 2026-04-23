@@ -242,7 +242,7 @@
         <a href="https://webshare.hs-bremen.de/seafhttp/f/d85ec6d4abaf493a91b3/?op=view">
         F11  </a> <br>
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-      <a href="https://webshare.hs-bremen.de/seafhttp/f/d85ec6d4abaf493a91b3/?op=view">
+      <a href="https://www.int.uni-rostock.de/Login.457+B6Jkw9MA__.0.html">
         Universität Rostock  </a> <br>
   </p>
  </td>
